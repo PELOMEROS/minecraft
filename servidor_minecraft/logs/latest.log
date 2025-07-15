@@ -201,3 +201,10 @@
 [03:46:23] [Server thread/INFO]: Slowin_S left the game
 [03:46:23] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
 [03:55:21] [Server thread/INFO]: ReckerDMS issued server command: /sethome Marina
+[03:55:58] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
+[04:00:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[04:00:42] [localSession-7-2/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[04:00:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
+[04:00:43] [Server thread/INFO]: .ABELARD03451 joined the game
+[04:00:43] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 5613 at ([world]-4099.65530986435, 63.05993596353328, 24.69842)
+[04:00:43] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
