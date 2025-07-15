@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752474033260
+  lastteleport: 1752553910476
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1752552615932
-  login: 1752552043610
+  login: 1752553773603
 money: '0'
 last-account-name: .ABELARD03451
 lastlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: 662.6259
-  y: 67.5
-  z: 728.597
-  yaw: 22.8143310546875
-  pitch: 18.731399536132812
+  x: -4167.8403
+  y: 71.0
+  z: -33.859512
+  yaw: -67.59307098388672
+  pitch: 14.108505249023438
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
@@ -53,3 +53,11 @@ homes:
     z: 839.9173
     yaw: 131.24041748046875
     pitch: 22.417449951171875
+  vege:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -4178.9214
+    y: 71.0
+    z: -35.931618
+    yaw: -125.06051635742188
+    pitch: 28.952987670898438
