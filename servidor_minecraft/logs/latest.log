@@ -438,3 +438,31 @@
 [04:56:32] [Server thread/INFO]: ReckerDMS left the game
 [04:56:32] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
 [04:57:41] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[04:59:17] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[04:59:48] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
+[04:59:56] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[05:01:00] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[05:01:00] [Server thread/INFO]: Slowin_S left the game
+[05:01:00] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:01:10] [Server thread/INFO]: carlospelatodo issued server command: /home kuchausito
+[05:01:17] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[05:01:17] [localSession-7-4/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[05:01:17] [User Authenticator #4/INFO]: UUID of player ABELARD03451 is 6b989650-5da1-3b06-8518-c55ecce001af
+[05:01:17] [Server thread/INFO]: ABELARD03451 joined the game
+[05:01:17] [Server thread/INFO]: ABELARD03451[/100.83.254.78:0] logged in with entity id 26169 at ([world]727.6464, 62.9375, 795.6434)
+[05:01:17] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:01:33] [User Authenticator #4/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[05:01:33] [Server thread/INFO]: Slowin_S joined the game
+[05:01:33] [Server thread/INFO]: Slowin_S[/100.80.144.71:49169] logged in with entity id 26380 at ([world]-4195.728267172549, 81.0608215150947, -18.1906632468637)
+[05:01:33] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:01:40] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[05:01:40] [Server thread/INFO]: ABELARD03451 lost connection: Disconnected
+[05:01:40] [Server thread/INFO]: ABELARD03451 left the game
+[05:01:40] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:01:42] [Server thread/INFO]: Slowin_S issued server command: /fly
+[05:02:51] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[05:02:51] [Server thread/INFO]: Slowin_S left the game
+[05:02:51] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:03:56] [Server thread/INFO]: carlospelatodo lost connection: Disconnected
+[05:03:56] [Server thread/INFO]: carlospelatodo left the game
+[05:03:56] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.

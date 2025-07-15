@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752555331576
+  lastteleport: 1752555673126
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752475328672
+  logout: 1752555836282
   login: 1752551112598
 money: '0'
 last-account-name: carlospelatodo
 lastlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: 693.5
-  y: 66.0
-  z: 740.5
-  yaw: 100.85409545898438
-  pitch: 9.282443046569824
+  x: 696.8537603188237
+  y: 64.0
+  z: 756.7878792816659
+  yaw: 162.6538848876953
+  pitch: 17.982440948486328
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -4177.742048248362
+  x: -4167.744048205416
   y: 71.0
-  z: -61.03830954330497
-  yaw: -22.469573974609375
-  pitch: 7.409076690673828
+  z: -14.217523873442978
+  yaw: 142.55467224121094
+  pitch: -15.000110626220703
 homes:
   kuchausito:
     world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc

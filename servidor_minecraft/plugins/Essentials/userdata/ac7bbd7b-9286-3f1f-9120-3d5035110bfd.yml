@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752551182586
-  login: 1752552640739
+  logout: 1752555771782
+  login: 1752555693279
 money: '0'
 last-account-name: Slowin_S
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -4197.681324907267
+  x: -4188.858244884404
   y: 71.0
-  z: -37.61935003514922
-  yaw: -179.0777587890625
-  pitch: -1.5145163536071777
+  z: -25.974690335348647
+  yaw: 128.36907958984375
+  pitch: 0.19700086116790771
 homes:
   base:
     world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
