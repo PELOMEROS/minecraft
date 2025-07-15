@@ -3976,3 +3976,9 @@
 [Tue Jul 15 04:18:43 UTC 2025] ReckerDMS: /sethome cueva2
 [Tue Jul 15 04:31:36 UTC 2025] .ABELARD03451: /sethome vege
 [Tue Jul 15 04:31:47 UTC 2025] .ABELARD03451: /home casa
+[Tue Jul 15 04:43:12 UTC 2025] carlospelatodo: /home kuchau
+[Tue Jul 15 04:43:29 UTC 2025] Slowin_S: /tp carlospelatodo
+[Tue Jul 15 04:44:46 UTC 2025] ReckerDMS: /sethome ZonaInex
+[Tue Jul 15 04:45:02 UTC 2025] ReckerDMS: /home
+[Tue Jul 15 04:45:09 UTC 2025] ReckerDMS: /home alpha
+[Tue Jul 15 04:45:49 UTC 2025] .ABELARD03451: /home vege
