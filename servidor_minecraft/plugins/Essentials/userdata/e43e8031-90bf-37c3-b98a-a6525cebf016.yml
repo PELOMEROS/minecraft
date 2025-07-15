@@ -1,0 +1,89 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.244.118.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721701384519
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721703285874
+  login: 1721703275293
+money: '0'
+last-account-name: The_killer29
+logoutlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -232.5
+  y: 80.0
+  z: 808.5
+  yaw: -21.056264877319336
+  pitch: 4.200000762939453
+homes:
+  strohold:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 118.54916500623277
+    y: 18.0
+    z: 2901.049589678852
+    yaw: -183.1168212890625
+    pitch: 20.81810188293457
+  pillaguers:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 9573.952300243902
+    y: 79.0
+    z: 14751.147101693545
+    yaw: -103.0533447265625
+    pitch: 14.850007057189941
+  evokers:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 11608.614037772259
+    y: 86.0
+    z: 13439.300000011921
+    yaw: -293.7320556640625
+    pitch: 15.746373176574707
+  piglins:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 313.69999998807907
+    y: 15.0
+    z: 2233.465317754595
+    yaw: -278.59124755859375
+    pitch: 26.215896606445312
+  exploracion:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -3184.8082375713725
+    y: 83.0
+    z: 3287.068512209809
+    yaw: -123.154296875
+    pitch: 20.167633056640625
+  aldea:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 0.06686525816801776
+    y: 72.0
+    z: 1281.7894537332536
+    yaw: -125.39970397949219
+    pitch: 34.04998016357422
+lastlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: 117.77132885982051
+  y: 18.0
+  z: 2897.6936091780694
+  yaw: -351.81964111328125
+  pitch: 24.4980525970459
+past-usernames:
+- the_killer29

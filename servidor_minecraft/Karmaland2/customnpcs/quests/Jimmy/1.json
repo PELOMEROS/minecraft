@@ -1,0 +1,57 @@
+{
+    CompleterNpc: "Jimmy",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "Plaga en el sótano",
+    Text: "Consigue exterminar las misteriosas criaturas que asolan el sótano del inocente Jimmy. Ten mucho cuidado!",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 15,
+            Slot: "Silverfish"
+        }
+    ],
+    ModRev: 16,
+    Type: 2,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441032852799L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "minecraft:planks",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:stone",
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Nunca he visto un exterminador de plagas como tú @p Supongo que el porblema persistirá durante un tiempo, asíque puedes ayudarme siempre que quieras.Muchas gracias!",
+    NextQuestTitle: ""
+}

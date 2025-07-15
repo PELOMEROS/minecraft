@@ -1,0 +1,63 @@
+{
+    CompleterNpc: "Sabueso",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "Libera la torre de vigilancia",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 200,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "Gallina Loca Enorme"
+        }
+    ],
+    ModRev: 16,
+    Type: 2,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1452960514040L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 3b,
+                id: "minecraft:gold_block",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "DCsAppleMilk:defeatedcrow.yuzuGatling",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:gold_block",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "WoW  increíble.Toma tu pistola y reparte la justicia por Karmaland.",
+    NextQuestTitle: ""
+}

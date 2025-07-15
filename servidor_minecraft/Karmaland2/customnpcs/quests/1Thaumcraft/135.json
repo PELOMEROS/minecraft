@@ -1,0 +1,101 @@
+{
+    CompleterNpc: "Christine",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Aprovisionamiento!",
+    Text: "Toda espera en Karmaland merece la pena, has trabajado duro para tener un nuevo poder con el que dominar el mundo.
+Hemos encontrado una mina para el abastecimiento inicial, pero la fortaleza colindante ha sido invadida por nuevos seres venidos de una dimensión desconocida.
+Ayúdanos y podrás extraer de nuestra mina lo que necesites.
+
+&3Misión
+
+Despeja la fortaleza y traenos al menos 15 muestras de tejido para poder saber más acerca de estos enemigos. 
+
+&4Recompensa
+
+-Mina.
+-Karmas.
+-Frasco de Cristal Vacío.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 5000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1463681665661L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 3b,
+                id: "minecraft:gold_ingot",
+                Count: 14b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:paper",
+                Count: 3b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "Thaumcraft:ItemEssence",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "Thaumcraft:ItemNuggetBeef",
+                Count: 15b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Tejido"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias!",
+    NextQuestTitle: ""
+}

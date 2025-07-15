@@ -1,0 +1,70 @@
+{
+    CompleterNpc: "Riplette",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "Encuentra a Charlie",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 400,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1458837966167L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:paper",
+                Count: 3b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "essentialcraft:gun.pistol",
+                Count: 1b,
+                tag: {
+                    mru: 5000,
+                    maxMRU: 5000
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "OH, muchas gracias por ayudarme. Charlie está bien. Intentaré conseguir una pluma dimensional rezando a los dioses de Karmaland y así reunirme con él.Cúidate!",
+    NextQuestTitle: "",
+    QuestLocation: "Casa de Charlie"
+}

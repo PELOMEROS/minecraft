@@ -1,0 +1,98 @@
+{
+    CompleterNpc: "Aquavid",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Metril",
+    Text: "Necesito un poderoso núcleo que concentra el poder del mal de los dos mundos(Nether y nuestro mundo). Tráemelo y te revelaré una nueva etapa del poder.
+
+&4Misión
+Consigue las piezas necesarias y encuentra el crafteo para fabricar el objeto el BOSS CORE.
+-30 de oro.
+
+&4Recompensa
+-METRIL DE CRAFTEO(te explicare más adelante cómo funciona)
+-Experiencia.
+-30 de oro.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445365288420L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:dye",
+                Count: 5b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "METRIL LILA"
+                    }
+                },
+                Damage: 5s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:dye",
+                Count: 4b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "METRIL VERDE"
+                    }
+                },
+                Damage: 10s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:gold_ingot",
+                Count: 30b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "DCsAppleMilk:defeatedcrow.chalcedonyLamp",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "BOSS CORE"
+                    }
+                },
+                Damage: 4s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Usa el Metril con cabeza!",
+    NextQuestTitle: ""
+}

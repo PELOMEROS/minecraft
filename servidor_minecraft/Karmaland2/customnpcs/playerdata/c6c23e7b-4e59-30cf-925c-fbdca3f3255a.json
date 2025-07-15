@@ -1,0 +1,29 @@
+{
+    ItemGiverChained: [
+    ],
+    ItemGiversList: [
+    ],
+    BankData: [
+    ],
+    PlayerCompanionId: 0,
+    MailData: [
+    ],
+    UUID: "c6c23e7b-4e59-30cf-925c-fbdca3f3255a",
+    QuestData: {
+        CompletedQuests: [
+        ],
+        ActiveQuests: [
+        ]
+    },
+    TransportData: [
+    ],
+    PlayerName: "bellotero69",
+    FactionData: [
+        {
+            Faction: 0,
+            Points: 2000
+        }
+    ],
+    DialogData: [
+    ]
+}

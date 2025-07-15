@@ -1,0 +1,76 @@
+{
+    CompleterNpc: "Marco Antonio",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Entrega la carta",
+    Text: "Entrega la carta en la Oficina de mensajería al sureste.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 70,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445455512040L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 3b,
+                id: "customnpcs:npcMailbox",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "essentialcraft:genItem",
+                Count: 15b,
+                Damage: 5s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:gold_ingot",
+                Count: 32b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcPlans",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Carta Importante"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Muchas gracias, con esos bichos no podíaos enviar cartas.COLOCA EL BUZÓN EN TU CASA Y EN UNOS DÍAS ABRIREMOS UNA OFICINA CERCA PARA QUE PUEDAS ENVIAR Y RECIBIR MENSAJES HABLANDO CON UNO DE NUESTROS EMPLEADOS.",
+    NextQuestTitle: ""
+}

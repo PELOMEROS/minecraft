@@ -1,0 +1,71 @@
+{
+    CompleterNpc: "Sr. Chocobón",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "El misterio de los chocobos",
+    Text: "Sigue la pista que te ha dado el Sr. Chocobón. Ten cuidado...",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 70,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1440254377537L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "minecraft:iron_boots",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:writable_book",
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Hemos visto a tres aventureros cerca de la aldea. Están construyendo su propio hogar, parecen nuevos en esta zona.
+
+Uno de ellos tiene un chocobo.
+
+Le vigilaremos. "
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Nota del secuestrador"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Mmmm, ¿has encontrado a los \"secuestradores de chocobos\"? Interesante....Pronto sabrás más noticias sobre mí, no creas que este lio ha acabado aquí, insensato.",
+    NextQuestTitle: ""
+}

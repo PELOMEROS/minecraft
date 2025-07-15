@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.159.208.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721622272341
+  login: 1721622252295
+money: '0'
+last-account-name: D_Law
+logoutlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -234.5
+  y: 80.0
+  z: 802.5
+  yaw: -14.2877779006958
+  pitch: -0.15000005066394806

@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.112.245.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752474958460
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752475356331
+  login: 1752472685128
+money: '0'
+last-account-name: .XTRemex19X
+lastlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: 675.5883
+  y: 63.0
+  z: 764.97375
+  yaw: -25.170806884765625
+  pitch: 30.797012329101562
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: -4155.4517
+  y: 63.0
+  z: 445.30001
+  yaw: 20.906097412109375
+  pitch: 36.22406005859375
+homes:
+  home:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 671.3782
+    y: 63.0
+    z: 759.0604
+    yaw: -111.84561157226562
+    pitch: 27.421783447265625
+  casa:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 695.78925
+    y: 64.0
+    z: 761.80145
+    yaw: 156.04263305664062
+    pitch: 37.731048583984375
+  aldea:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -4051.0422
+    y: 68.0
+    z: 162.28601
+    yaw: 119.75625610351562
+    pitch: 20.276168823242188
+  vege:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -4160.1123
+    y: 71.0
+    z: -38.107647
+    yaw: -50.929107666015625
+    pitch: 20.794219970703125

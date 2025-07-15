@@ -1,0 +1,52 @@
+{
+    CompleterNpc: "Manolito",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Entrega la carta",
+    Text: "Entrega la carta en la oficina de mensajería.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445455017669L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "customnpcs:npcMailbox",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias. ESCUCHA:COLOCA EL BUZÓN EN TU CASA, Y EN UNOS DÍAS ABRIREMOS UN PUESTO CON UN EMPLEADO NUESTRO PARA QUE PUEDAS ENVIAR CARTAS.",
+    NextQuestTitle: ""
+}

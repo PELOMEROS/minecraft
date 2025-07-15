@@ -1,0 +1,150 @@
+{
+    CompleterNpc: "Darage",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Gusanos gusanos gusanos",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 1000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462043602445L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:paper",
+                Count: 5b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:writable_book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        }
+                    ],
+                    pages: [
+                        "Coordenadas de vendedor oculto
+
+-82 69 312"
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Coordenadas de vendedor Oculto"
+                    },
+                    id: 386s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:gold_ingot",
+                Count: 50b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcFrenchHorn",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 61s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gusano - Carnada"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "customnpcs:npcFrenchHorn",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 61s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gusano - Carnada"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "customnpcs:npcFrenchHorn",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 61s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gusano - Carnada"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Eres un jefazo! Muchas gracias!",
+    NextQuestTitle: ""
+}

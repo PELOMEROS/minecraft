@@ -1,0 +1,89 @@
+{
+    CompleterNpc: "Cray",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "El ritual!",
+    Text: "Mientras estaba secuestrada escuche un plan que tenía como objetivo hacerse con el control del mundo, era una especie de ritual, y estaba completo a la mitad, he estado hablando con Garbanzo y hemos decidido pedirte ayuda.
+
+&4Misión
+  
+Ve al barco volador donde esta el jefe y recupera los materiales del ritual, estarán en algún cofre protegido, traelos  y te diremos qué hacer con ellos.
+
+&4Recompensa
+-Huevo de Ocelote.
+-EXP.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 3000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465758838664L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:fish",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:fish",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:spawn_egg",
+                Count: 3b,
+                Damage: 98s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "essentialcraft:elementalCrystal",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    size: 100.0f,
+                    earth: 0.0f,
+                    display: {
+                        Name: "Elementos Ritual"
+                    },
+                    fire: 100.0f,
+                    air: 0.0f,
+                    water: 0.0f
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "Habla con Garbanzo, el te dirá como destruir los materiales.",
+    NextQuestTitle: ""
+}

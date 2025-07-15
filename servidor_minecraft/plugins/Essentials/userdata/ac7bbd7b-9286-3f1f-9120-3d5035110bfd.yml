@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.80.144.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752551131777
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752551182586
+  login: 1752550572797
+money: '0'
+last-account-name: Slowin_S
+lastlocation:
+  world: c58281f9-8fc3-4ff6-96a5-08506a6b36c0
+  world-name: Karmaland2
+  x: -457.6521503299594
+  y: 176.0
+  z: 287.1142219152552
+  yaw: -107.54474639892578
+  pitch: 23.869600296020508
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: -4197.681324907267
+  y: 71.0
+  z: -37.61935003514922
+  yaw: -179.0777587890625
+  pitch: -1.5145163536071777
+homes:
+  base:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -797.9471046653658
+    y: 20.0
+    z: 654.3698082078271
+    yaw: 8.05938720703125
+    pitch: 10.19962215423584
+  aldea:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 665.0438291683099
+    y: 66.0
+    z: 721.7783959726739
+    yaw: -51.513160705566406
+    pitch: 7.673226356506348
+  hplaaa:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 660.3239825663642
+    y: 54.0
+    z: 701.5342452799443
+    yaw: 179.50318908691406
+    pitch: 31.633018493652344
+  bascobre:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -1641.0601110696932
+    y: -14.0
+    z: 494.92944354721084
+    yaw: 34.575439453125
+    pitch: 20.193504333496094
+  savana:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -4171.472922157133
+    y: 71.0
+    z: -18.314217639177084
+    yaw: -92.7200927734375
+    pitch: 16.850906372070312

@@ -1,0 +1,121 @@
+{
+    CompleterNpc: "Gartner",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Una de Zombies!",
+    Text: "Unos zombies han invadido mi preciosa aldea, mira qué horroroso aspecto tengo, si acabas con todos no solo me salvarás a mi, también a toda mi aldea.
+
+&3Misión
+
+Ve allí, acaba con todos los zombies y trae al menos 15 flores Zombies.
+
+&4Recompensa
+
+- EXP.
+- Metal.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 5000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465484173059L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:iron_ingot",
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:double_plant",
+                Count: 15b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Flor Zombie"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias forastero!",
+    NextQuestTitle: ""
+}

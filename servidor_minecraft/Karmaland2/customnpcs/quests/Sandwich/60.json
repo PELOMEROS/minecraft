@@ -1,0 +1,124 @@
+{
+    CompleterNpc: "Sandwich",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Encuentra los 10 libros importantes",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 150,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1452285611506L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:gold_ingot",
+                Count: 40b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:iron_ingot",
+                Count: 40b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "abyssalcraft:cpearl",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "chisel:bookshelf",
+                Count: 7b,
+                Damage: 4s
+            },
+            {
+                Slot: 4b,
+                id: "chisel:bookshelf",
+                Count: 7b,
+                Damage: 7s
+            },
+            {
+                Slot: 5b,
+                id: "chisel:bookshelf",
+                Count: 7b,
+                Damage: 2s
+            },
+            {
+                Slot: 6b,
+                id: "chisel:bookshelf",
+                Count: 7b,
+                Damage: 1s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:paper",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:book",
+                Count: 10b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 232s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "LIBRO IMPORTANTE"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "WoWMuchas gracias, toma tus cosas!",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,32 @@
+#Owner:
+#  tabprefix: "&0&l[&a&lOwner&0&l] &a"
+#  tagprefix: "&2&lOwner &a"
+Player:
+  tabprefix: '&e&lMiembro &f'
+  tagprefix: '&e&lMiembro &f'
+example_group:
+  header:
+  - This is an example of per-group header/footer
+  footer:
+  - applied to a group
+_DEFAULT_:
+  tabprefix: '%luckperms-prefix%'
+  tagprefix: '%luckperms-prefix%'
+  customtabname: '%player%'
+  customtagname: '%player%'
+  tabsuffix: '%luckperms-suffix%'
+  tagsuffix: '%luckperms-suffix%'
+per-world:
+  world1:
+    Owner:
+      tabprefix: '&0&l[&4&lFundador&0&l] &f'
+      tagprefix: '&4&lFundador &f'
+Owner:
+  tabprefix: '&4&lFundador &f'
+  tagprefix: '&4&lFundador &f'
+miembro:
+  tabprefix: '&e&lMiembro &f'
+  tagprefix: '&e&lMiembro &f'
+default: 
+  tabprefix: '&e&lMiembro &f'
+  tagprefix: '&e&lMiembro &f'

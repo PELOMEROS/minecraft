@@ -1,0 +1,127 @@
+{
+    CompleterNpc: "Steve",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "Acaba con los seres infelices",
+    Text: "Mátalos a todos!!!",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 120,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 10,
+            Slot: "Golem Infeliz"
+        }
+    ],
+    ModRev: 16,
+    Type: 2,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1451249174271L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:sign",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 196s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Señal para determinar SPAWNER!"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:writable_book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 196s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Autógrafo de Steve!!!jajajja"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:writable_book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 196s
+                        }
+                    ],
+                    pages: [
+                        "Amigo...
+
+Coloca una señal donde quieras que te deje un spawn de un ser desconocido e increíble para que puedas hacer una pequeña granja de experiencia
+
+JAJAJAJJAJAJA"
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "HAS RECIBIDO UN SPAWNAR!!!JAJA"
+                    },
+                    id: 386s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:blaze_rod",
+                Count: 9b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:gold_ingot",
+                Count: 20b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:quartz_ore",
+                Count: 32b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Wow amigo. Aquí tienes tu recompensa JAJAJJAJAJ",
+    NextQuestTitle: ""
+}

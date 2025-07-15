@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.83.254.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752474033260
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752475278471
+  login: 1752474401075
+money: '0'
+last-account-name: .ABELARD03451
+lastlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: 662.6259
+  y: 67.5
+  z: 728.597
+  yaw: 22.8143310546875
+  pitch: 18.731399536132812
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: -4099.663
+  y: 63.43384
+  z: 24.69842
+  yaw: -105.01866912841797
+  pitch: 24.533905029296875
+homes:
+  home:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 738.5599
+    y: 56.0
+    z: 839.8205
+    yaw: 140.576171875
+    pitch: 24.847686767578125
+  casa:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 736.9239
+    y: 56.0
+    z: 839.9173
+    yaw: 131.24041748046875
+    pitch: 22.417449951171875

@@ -1,0 +1,76 @@
+{
+    CompleterNpc: "Christine",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "UFF, nuestra base...",
+    Text: "Una invasión de zombies ha dejado inservible nuestra fortaleza del mundo lejano, no podemos entrar hasta que esté despejado.
+
+No olvides acabar con su jefe y traer una prueba.
+
+
+&3Misión
+
+Ve allí y despeja la zona, podrás disfrutar de la nueva zona y de una suculenta recompensa. 
+
+&4Recompensa
+
+- Puedes pedir lo que quieras.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 400,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464011630882L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "minecraft:diamond",
+                Count: 12b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:diamond",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Corazon"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "No olvides pedir tu recompensa.",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,130 @@
+{
+    CompleterNpc: "Diosa Amana",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Un mundo mejor. Parte 2",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 2000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462807883560L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:paper",
+                Count: 5b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:gold_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:enchanted_book",
+                Count: 1b,
+                tag: {
+                    StoredEnchantments: [
+                        {
+                            lvl: 3s,
+                            id: 34s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:enchanted_book",
+                Count: 1b,
+                tag: {
+                    StoredEnchantments: [
+                        {
+                            lvl: 3s,
+                            id: 34s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:enchanted_book",
+                Count: 1b,
+                tag: {
+                    StoredEnchantments: [
+                        {
+                            lvl: 3s,
+                            id: 34s
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcNatureSpell",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 197s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "ESENCIA DE KARMALAND"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Larga vida a Karmaland.",
+    NextQuestTitle: ""
+}

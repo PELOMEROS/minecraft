@@ -1,0 +1,662 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 1000,
+            Faction: 1
+        },
+        {
+            Points: 0,
+            Faction: 2
+        },
+        {
+            Points: 1000,
+            Faction: 20
+        },
+        {
+            Points: 1000,
+            Faction: 6
+        },
+        {
+            Points: 1000,
+            Faction: 7
+        },
+        {
+            Points: 1000,
+            Faction: 8
+        },
+        {
+            Points: 1000,
+            Faction: 9
+        },
+        {
+            Points: 1000,
+            Faction: 14
+        },
+        {
+            Points: 1000,
+            Faction: 15
+        }
+    ],
+    BankData: [
+        {
+            BankInv: [
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                            {
+                                Slot: 45b,
+                                id: "minecraft:gold_ingot",
+                                Count: 38b,
+                                Damage: 0s
+                            }
+                        ]
+                    },
+                    Slot: 0
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 1
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 2
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 3
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 4
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 5
+                }
+            ],
+            UpdatedSlots: [
+                {
+                    Slot: 0,
+                    Boolean: 1b
+                },
+                {
+                    Slot: 1,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 2,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 3,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 4,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 5,
+                    Boolean: 0b
+                }
+            ],
+            DataBankId: 1,
+            UnlockedSlots: 2
+        }
+    ],
+    ItemGiversList: [
+        {
+            Long: 1457868200449L,
+            Slot: 3
+        }
+    ],
+    MailData: [
+    ],
+    PlayerName: "bysTaXx",
+    QuestData: {
+        CompletedQuests: [
+            {
+                Quest: 1,
+                Date: 19014277L
+            },
+            {
+                Quest: 129,
+                Date: 426332105L
+            },
+            {
+                Quest: 4,
+                Date: 27314364L
+            },
+            {
+                Quest: 5,
+                Date: 27323987L
+            },
+            {
+                Quest: 6,
+                Date: 35871157L
+            },
+            {
+                Quest: 7,
+                Date: 84582473L
+            },
+            {
+                Quest: 71,
+                Date: 292840158L
+            },
+            {
+                Quest: 135,
+                Date: 453485960L
+            },
+            {
+                Quest: 73,
+                Date: 292906844L
+            },
+            {
+                Quest: 13,
+                Date: 59802286L
+            },
+            {
+                Quest: 14,
+                Date: 53089352L
+            },
+            {
+                Quest: 18,
+                Date: 70112918L
+            },
+            {
+                Quest: 146,
+                Date: 540181946L
+            },
+            {
+                Quest: 84,
+                Date: 346926766L
+            },
+            {
+                Quest: 22,
+                Date: 84617768L
+            },
+            {
+                Quest: 26,
+                Date: 156333985L
+            },
+            {
+                Quest: 27,
+                Date: 156340293L
+            },
+            {
+                Quest: 30,
+                Date: 159688100L
+            },
+            {
+                Quest: 33,
+                Date: 145070901L
+            },
+            {
+                Quest: 34,
+                Date: 175398845L
+            },
+            {
+                Quest: 37,
+                Date: 188098412L
+            },
+            {
+                Quest: 40,
+                Date: 214063856L
+            },
+            {
+                Quest: 105,
+                Date: 361275114L
+            },
+            {
+                Quest: 42,
+                Date: 217511790L
+            },
+            {
+                Quest: 110,
+                Date: 381682973L
+            },
+            {
+                Quest: 47,
+                Date: 249403813L
+            },
+            {
+                Quest: 111,
+                Date: 404716734L
+            },
+            {
+                Quest: 50,
+                Date: 225536183L
+            },
+            {
+                Quest: 59,
+                Date: 265636534L
+            },
+            {
+                Quest: 60,
+                Date: 265659996L
+            }
+        ],
+        ActiveQuests: [
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 118
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 23
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 24
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 40
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 25
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 41
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 123
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 155
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 15
+            },
+            {
+                QuestCompleted: 1b,
+                ExtraData: {
+                    Killed: [
+                        {
+                            Value: 10,
+                            Slot: "Zombie"
+                        }
+                    ]
+                },
+                Quest: 111
+            }
+        ]
+    },
+    UUID: "5ae58d4f-5af9-4ab6-b57c-eefdd93ccf6e",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 256
+        },
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 260
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 262
+        },
+        {
+            Dialog: 7
+        },
+        {
+            Dialog: 263
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 264
+        },
+        {
+            Dialog: 268
+        },
+        {
+            Dialog: 15
+        },
+        {
+            Dialog: 272
+        },
+        {
+            Dialog: 273
+        },
+        {
+            Dialog: 18
+        },
+        {
+            Dialog: 20
+        },
+        {
+            Dialog: 276
+        },
+        {
+            Dialog: 21
+        },
+        {
+            Dialog: 24
+        },
+        {
+            Dialog: 25
+        },
+        {
+            Dialog: 26
+        },
+        {
+            Dialog: 28
+        },
+        {
+            Dialog: 285
+        },
+        {
+            Dialog: 286
+        },
+        {
+            Dialog: 33
+        },
+        {
+            Dialog: 34
+        },
+        {
+            Dialog: 35
+        },
+        {
+            Dialog: 38
+        },
+        {
+            Dialog: 39
+        },
+        {
+            Dialog: 42
+        },
+        {
+            Dialog: 298
+        },
+        {
+            Dialog: 43
+        },
+        {
+            Dialog: 299
+        },
+        {
+            Dialog: 44
+        },
+        {
+            Dialog: 45
+        },
+        {
+            Dialog: 46
+        },
+        {
+            Dialog: 47
+        },
+        {
+            Dialog: 48
+        },
+        {
+            Dialog: 49
+        },
+        {
+            Dialog: 51
+        },
+        {
+            Dialog: 54
+        },
+        {
+            Dialog: 55
+        },
+        {
+            Dialog: 56
+        },
+        {
+            Dialog: 61
+        },
+        {
+            Dialog: 62
+        },
+        {
+            Dialog: 63
+        },
+        {
+            Dialog: 66
+        },
+        {
+            Dialog: 322
+        },
+        {
+            Dialog: 67
+        },
+        {
+            Dialog: 323
+        },
+        {
+            Dialog: 68
+        },
+        {
+            Dialog: 69
+        },
+        {
+            Dialog: 71
+        },
+        {
+            Dialog: 72
+        },
+        {
+            Dialog: 73
+        },
+        {
+            Dialog: 74
+        },
+        {
+            Dialog: 75
+        },
+        {
+            Dialog: 76
+        },
+        {
+            Dialog: 77
+        },
+        {
+            Dialog: 79
+        },
+        {
+            Dialog: 80
+        },
+        {
+            Dialog: 339
+        },
+        {
+            Dialog: 340
+        },
+        {
+            Dialog: 86
+        },
+        {
+            Dialog: 87
+        },
+        {
+            Dialog: 88
+        },
+        {
+            Dialog: 90
+        },
+        {
+            Dialog: 91
+        },
+        {
+            Dialog: 94
+        },
+        {
+            Dialog: 99
+        },
+        {
+            Dialog: 100
+        },
+        {
+            Dialog: 103
+        },
+        {
+            Dialog: 104
+        },
+        {
+            Dialog: 105
+        },
+        {
+            Dialog: 106
+        },
+        {
+            Dialog: 109
+        },
+        {
+            Dialog: 110
+        },
+        {
+            Dialog: 113
+        },
+        {
+            Dialog: 114
+        },
+        {
+            Dialog: 115
+        },
+        {
+            Dialog: 117
+        },
+        {
+            Dialog: 118
+        },
+        {
+            Dialog: 119
+        },
+        {
+            Dialog: 120
+        },
+        {
+            Dialog: 144
+        },
+        {
+            Dialog: 145
+        },
+        {
+            Dialog: 146
+        },
+        {
+            Dialog: 147
+        },
+        {
+            Dialog: 150
+        },
+        {
+            Dialog: 152
+        },
+        {
+            Dialog: 164
+        },
+        {
+            Dialog: 165
+        },
+        {
+            Dialog: 171
+        },
+        {
+            Dialog: 172
+        },
+        {
+            Dialog: 173
+        },
+        {
+            Dialog: 174
+        },
+        {
+            Dialog: 188
+        },
+        {
+            Dialog: 189
+        },
+        {
+            Dialog: 198
+        },
+        {
+            Dialog: 199
+        },
+        {
+            Dialog: 234
+        },
+        {
+            Dialog: 236
+        },
+        {
+            Dialog: 238
+        },
+        {
+            Dialog: 239
+        },
+        {
+            Dialog: 246
+        },
+        {
+            Dialog: 247
+        },
+        {
+            Dialog: 248
+        },
+        {
+            Dialog: 249
+        },
+        {
+            Dialog: 250
+        },
+        {
+            Dialog: 254
+        }
+    ]
+}

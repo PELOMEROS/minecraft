@@ -1,0 +1,138 @@
+{
+    CompleterNpc: "Diosa Amana",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "El Rey Cedric",
+    Text: "Vence al Rey Cedric y trae su espada.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 120,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1463681650913L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:gold_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:ender_pearl",
+                Count: 16b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 48s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 16s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:coal",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:mob_spawner",
+                Count: 1b,
+                Damage: 51s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcMithrilBroadsword",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 0s
+                        },
+                        {
+                            lvl: 3s,
+                            id: 16s
+                        },
+                        {
+                            lvl: 3s,
+                            id: 48s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Espadón de Cedric"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias aventurero.El rey Cedric ha vuelto al lugar que pertenece.Toma tu recompensa, te quiero.",
+    NextQuestTitle: ""
+}

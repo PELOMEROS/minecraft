@@ -1,0 +1,104 @@
+{
+    CompleterNpc: "Demytrix",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Time Controll",
+    Text: "¿Te gustaría poder controlar el tiempo? Hace unos dias he oido hablar algo sobre la aparición de una antigua isla flotante de otro tiempo, por lo que quien sea que haya traído esa isla, controla el tiempo a su antojo.
+
+&4Misión
+Consigue el dispositivo “Time controll”
+Se cuenta que son necesarios dos compuestos líquidos, uno azul y uno rojo.
+
+&4Recompensa
+-Arma exclusiva de gran poder.
+-Exp.
+-Poder traer algo de la anterior temporada de KARMALAND a esta.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 400,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1456851369685L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "abyssalcraft:cudgel",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "The POWN"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "DCsAppleMilk:defeatedcrow.essentialOil",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Compuesto AZUL"
+                    }
+                },
+                Damage: 2s
+            },
+            {
+                Slot: 1b,
+                id: "DCsAppleMilk:defeatedcrow.essentialOil",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Compuesto ROJO"
+                    }
+                },
+                Damage: 1s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:clock",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Time Controll"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Recibiras mis noticias.",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.111.187.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752300533699
+  login: 1752296311584
+money: '0'
+last-account-name: Amatzumagasuchi
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: 665.7101994697277
+  y: 64.0
+  z: 745.2931854286992
+  yaw: -178.65252685546875
+  pitch: 9.960761070251465
+lastlocation:
+  world: c58281f9-8fc3-4ff6-96a5-08506a6b36c0
+  world-name: Karmaland2
+  x: -457.2163240678243
+  y: 176.0
+  z: 286.24073495713134
+  yaw: -79.87408447265625
+  pitch: 17.164743423461914

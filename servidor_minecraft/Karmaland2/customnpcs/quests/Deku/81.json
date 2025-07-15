@@ -1,0 +1,262 @@
+{
+    CompleterNpc: "Deku-Ka",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "¿Ayuda desesperada?",
+    Text: "Desde la más alta rama hasta la más profunda raíz, no queda una sola zona del árbol donde podamos vivir tranquilos, por eso te pedimos ayuda y podemos ofrecerte una muy buena recompensa. 
+Si vienes solo intenta reunir a algún amigo y vuelve a hablar conmigo.
+
+&4Misión
+
+Despeja el árbol sagrado de los Dekus de monstruos, acaba con el “Jefe Profundo” y el “Jafe de las Alturas”y hazte con las semillas que te darán.(Procura tener espacio en el inventario para que se añadan de manera automática) 
+
+
+&4Recompensa
+-Karmas
+-Exp.
+-Kit de Batalla.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 2000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1455648340114L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:diamond_helmet",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 1s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Casco Deku"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:diamond_leggings",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 4s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 3s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Pantalones Deku"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:diamond_boots",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Botas Deku"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:diamond_chestplate",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 2s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Pechera Deku"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "abyssalcraft:ethaxiumsword",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 7s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 16s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 17s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 18s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Espada Deku"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:paper",
+                Count: 2b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:diamond",
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:diamond",
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:diamond",
+                Count: 2b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:sapling",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 0s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Semilla de las alturas"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:sapling",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 0s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Semilla de las profundidades"
+                    }
+                },
+                Damage: 2s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:sapling",
+                Count: 10b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 0s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Semilla"
+                    }
+                },
+                Damage: 1s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Disfruta tu recompensa.",
+    NextQuestTitle: ""
+}

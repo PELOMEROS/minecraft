@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.159.208.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720131422429
+  login: 1720131368458
+money: '0'
+last-account-name: pepitokun
+logoutlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -275.1517900798921
+  y: 90.0
+  z: 825.8234328588271
+  yaw: 145.38421630859375
+  pitch: 10.499731063842773

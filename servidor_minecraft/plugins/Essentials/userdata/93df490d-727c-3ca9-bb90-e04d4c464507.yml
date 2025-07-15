@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.150.110.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720822476947
+  login: 1720822455576
+money: '0'
+last-account-name: DIEGOVELCRO
+logoutlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -1167.5107594786455
+  y: 68.0
+  z: 1785.2687098880733
+  yaw: -35.535491943359375
+  pitch: 9.44998836517334

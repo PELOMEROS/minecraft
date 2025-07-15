@@ -1,0 +1,77 @@
+{
+    CompleterNpc: "Basrrelen",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Zom-PIG",
+    Text: "Hola, soy Basrrelen, gracias por venir a ayudarnos, una epidemia ha infectado a nuestros cerdos haciendo que sean agresivos, acaba con ellos y tráeme 10 muestras de tejido para que evitemos que esto vuelva a pasar.
+
+&4Recompensa
+
+-Dinero.
+-EXP.
+
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 3000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1466440611091L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "minecraft:gold_ingot",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:diamond",
+                Count: 32b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "abyssalcraft:antipork",
+                Count: 10b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Muestra Infectada"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias!",
+    NextQuestTitle: ""
+}

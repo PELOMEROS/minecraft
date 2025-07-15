@@ -1,0 +1,110 @@
+{
+    CompleterNpc: "Donicella",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Recupera la esencia de Karmaland",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 400,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1458332120549L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:paper",
+                Count: 3b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "essentialcraft:gun.sniper",
+                Count: 1b,
+                tag: {
+                    gunShots: 4.0f,
+                    mru: 3320,
+                    maxMRU: 5000,
+                    stats: {
+                        damage: 42.666664f,
+                        reload: 13.0f,
+                        balance: 1.0f,
+                        durability: 440.0f,
+                        zoom: 12.0f,
+                        knockback: 18.0f,
+                        shots: 10.0f,
+                        speed: 63.0f,
+                        spread: 0.23333335f
+                    },
+                    lense: "chaos",
+                    scope: "void",
+                    handle: "mithriline",
+                    gunDamage: 4.0f,
+                    device: "mithriline",
+                    base: "mru"
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcWaterElement",
+                Count: 15b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 103s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Esencia de Karmaland"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Buen trabajo!",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,82 @@
+{
+    CompleterNpc: "Elías",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Consigue los 5 trozos de armaudura",
+    Text: "Consigue los 5 trozos de armadura.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 20,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1446237071445L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 3b,
+                id: "minecraft:diamond_leggings",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:diamond_chestplate",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:diamond_boots",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:diamond_helmet",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcBrokenOrb",
+                Count: 5b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Trozo de armadura"
+                    }
+                },
+                Damage: 8s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias.",
+    NextQuestTitle: ""
+}

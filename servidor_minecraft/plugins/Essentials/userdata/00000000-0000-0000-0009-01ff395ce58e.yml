@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.71.210.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1751938483704
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751938968357
+  login: 1751938874508
+money: '0'
+last-account-name: .HST_Slowing
+lastlocation:
+  world: 2fd85689-5951-44c1-9632-be585266bb3b
+  world-name: world
+  x: -29.5
+  y: 63.0
+  z: -11.5
+  yaw: 163.86572265625
+  pitch: -4.41131591796875
+logoutlocation:
+  world: 2fd85689-5951-44c1-9632-be585266bb3b
+  world-name: world
+  x: -21.90709
+  y: 63.0
+  z: -15.257169
+  yaw: 164.17880249023438
+  pitch: 16.14178466796875
+homes:
+  holaaa:
+    world: 2fd85689-5951-44c1-9632-be585266bb3b
+    world-name: world
+    x: -9.175817
+    y: 63.0
+    z: 3.7499018
+    yaw: -43.53334045410156
+    pitch: 14.733001708984375

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.120.167.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752471777069
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752475355669
+  login: 1752551120555
+money: '0'
+last-account-name: ReckerDMS
+lastlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: -4282.699999988079
+  y: 35.0
+  z: 120.69999998807907
+  yaw: 82.94810485839844
+  pitch: 90.0
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: -3859.512499988079
+  y: 56.0
+  z: -396.64765732075557
+  yaw: 171.48065185546875
+  pitch: 44.99999237060547
+homes:
+  alpha:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -3999.6806573882805
+    y: 36.0
+    z: -31.03713872103094
+    yaw: -178.2000732421875
+    pitch: 9.299988746643066
+  lake:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -3924.59370513623
+    y: -46.0
+    z: -157.06906798636166
+    yaw: 55.31700134277344
+    pitch: 25.349864959716797

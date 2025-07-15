@@ -1,0 +1,133 @@
+{
+    CompleterNpc: "Melodín",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Barco Dimensional",
+    Text: "&4INFO
+
+Parece que la posibilidad de ir de una dimensión a otra está
+más cerca de lo que parece, algunos viajeros dicen haber visto el barco dimensional que porta una llave que nos permitirá ir de una dimensión a otra.
+
+&4Misión
+ 
+Te he dejado indicado la última posición en la que dijeron verlo.
+Encuentralo y trae la llave. 
+¡Cuidado con los enemigos!
+
+&4Recompensa
+-Reparación de la armadura.
+-Experiencia.
+-Karma$
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 2000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1457870019476L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:paper",
+                Count: 4b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:book",
+                Count: 2b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 5s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Bono Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:diamond",
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:golden_apple",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Manzana del Karma"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:snowball",
+                Count: 16b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcKey",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Llave dimensional"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Esto nos abre muchas puertas.",
+    NextQuestTitle: ""
+}

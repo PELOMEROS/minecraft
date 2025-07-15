@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.244.118.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721452711369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722306606817
+  login: 1722306564124
+money: '0'
+last-account-name: skisoflat
+logoutlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -332.73146451991425
+  y: 70.08794051313882
+  z: 481.96764740624207
+  yaw: 282.7491149902344
+  pitch: 31.49942970275879
+lastlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: 80.08989966853372
+  y: 68.0
+  z: 2642.651016942876
+  yaw: 197.11737060546875
+  pitch: 46.79953384399414
+homes:
+  home:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -240.7881122352296
+    y: 80.0
+    z: 811.2083801898111
+    yaw: 133.31459045410156
+    pitch: 37.64981460571289

@@ -1,0 +1,99 @@
+{
+    CompleterNpc: "Sqeler",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "El Templo",
+    Text: "Mi querido templo ha sido infectado por un virus que está infectando lugares de lado al otro de nuestro mundo, acaba con los infectados y tráeme las siguientes muestras, para que con ellos podamos frenar este implacable virus.
+
+MUESTRAS:
+-20 Muestras
+-5 Muestras EPIC
+-1 Muestras Paciente 0
+
+&4Recompensa
+
+-Armadura Custom, podrás pedir la que desees.
+-EXP
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 5000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1467071259809L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:diamond",
+                Count: 10b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "Thaumcraft:blockJar",
+                Count: 20b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Muestra"
+                    }
+                },
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: "Thaumcraft:blockJar",
+                Count: 5b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Muestra EPIC"
+                    }
+                },
+                Damage: 1s
+            },
+            {
+                Slot: 2b,
+                id: "Thaumcraft:blockJar",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Muestra Paciente 0"
+                    }
+                },
+                Damage: 1s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Dejaré instrucciones en tu casa para que puedas conseguir tu armadura.",
+    NextQuestTitle: ""
+}

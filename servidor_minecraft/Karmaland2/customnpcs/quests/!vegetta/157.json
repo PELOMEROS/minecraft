@@ -1,0 +1,105 @@
+{
+    CompleterNpc: "Beita",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Beita y los lobos",
+    Text: "SOS
+Necesito que me consigas una barra de doma para lobos, una malvada princesa me la ha robado y se ha quedado con mi manada de lobos.
+
+&3Misión
+
+Ve allí, acaba con mis viejos lobos y tráeme la barra.
+
+&4Recompensa
+
+- EXP.
+- Manada de lobos (Huevos y huesos).
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 2000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1468260435666L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:spawn_egg",
+                Count: 32b,
+                Damage: 95s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:bone",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:bone",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:bone",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:bone",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:bone",
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "geoactivity:Carbon Stick",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Palo de doma"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Que turbio...",
+    NextQuestTitle: ""
+}

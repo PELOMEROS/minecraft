@@ -1,0 +1,156 @@
+{
+    CompleterNpc: "Rey Cundur",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Recupera el testamento",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 400,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1454681587642L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:gold_ingot",
+                Count: 50b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 34s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 16s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 48s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 4s,
+                            id: 1s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:stone",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:stone",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:paper",
+                Count: 2b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcLetter",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 196s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Testamento"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "WOWOWOWOOWOWGracias amigo. Mis caballeros también están muy agradecidos.",
+    NextQuestTitle: ""
+}

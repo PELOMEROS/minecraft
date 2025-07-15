@@ -1,0 +1,94 @@
+{
+    CompleterNpc: "Apichatpong Weerasethakul",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Té para Apichatpong",
+    Text: "Consigue té para el increíble Apichatpong y ayudale a mantener el equilibrio.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 60,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1443469459710L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 1b,
+                id: "minecraft:potion",
+                Count: 1b,
+                Damage: 8194s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:potion",
+                Count: 1b,
+                Damage: 8194s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:iron_block",
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:potion",
+                Count: 1b,
+                Damage: 8194s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:potion",
+                Count: 1b,
+                Damage: 8194s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:potion",
+                Count: 1b,
+                Damage: 8194s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:potion",
+                Count: 1b,
+                Damage: 8194s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "DCsAppleMilk:defeatedcrow.foodTea",
+                Count: 30b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Muchas gracias colega, puede que más adelante tenga algo mejor que ofrecerte! Mientras tanto puedes traerme todo el té que quieras.",
+    NextQuestTitle: ""
+}

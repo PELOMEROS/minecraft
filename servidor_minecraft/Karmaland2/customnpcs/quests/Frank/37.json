@@ -1,0 +1,107 @@
+{
+    CompleterNpc: "Mia",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Zomboid!",
+    Text: "Necesito recuperar mi vieja isla flotante!. Me fue arrebatada hace años por una horda de Zombies. 
+Sigue las indicaciones del cartel para llegar. una vez en la parte de abajo deberás bajar para subir.
+
+
+&4Misión
+-Acaba con los enemigos.
+-Consigue el Zombodrio
+
+&4Recompensa
+-Experiencia.
+-Kit de Héroe. 
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 800,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1450282512016L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 3b,
+                id: "minecraft:bow",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 34s
+                        },
+                        {
+                            lvl: 1s,
+                            id: 50s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:diamond_sword",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 21s
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:redstone",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 5s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Zombodrio "
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Buen trabajo.",
+    NextQuestTitle: ""
+}

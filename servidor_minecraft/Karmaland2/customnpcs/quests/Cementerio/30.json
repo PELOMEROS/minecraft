@@ -1,0 +1,78 @@
+{
+    CompleterNpc: "Arisotura",
+    NextQuestId: -1,
+    QuestLocation3: "beacon3",
+    RandomReward: 0b,
+    QuestLocation2: "beacon2",
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "El tiempo.",
+    Text: "No se si te has dado cuenta, pero el día y la noche ya no se suceden, tenemos que hacer algo o la gente del pueblo empezará a desesperar.
+Un explorador ha encontrado la máquina causante de estos males.
+
+&4Misión
+
+Encuentra y destruye los  3 nodos de poder del condensador de tiempo..
+
+
+&4Recompensa
+-Experiencia.
+-Espadón de FUEGO
+-Oro.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 1500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1446751501842L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 7b,
+                id: "abyssalcraft:dreadiumsword",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 16s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Espadón de FUEGO"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:gold_ingot",
+                Count: 20b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Gracias por ayudarnos!",
+    NextQuestTitle: "",
+    QuestLocation: "beacon1"
+}

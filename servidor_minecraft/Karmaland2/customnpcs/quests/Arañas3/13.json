@@ -1,0 +1,73 @@
+{
+    CompleterNpc: "Malus",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "mi casitaa!..",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "@p",
+        BeenRead: 0b,
+        Message: {
+            pages: [
+                ""
+            ]
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441733135530L,
+        Time: 0L,
+        Subject: "Completado"
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:gold_ingot",
+                Count: 41b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "GrimoireOfGaia:item.GrimoireOfGaia.BagBook",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:spider_eye",
+                Count: 6b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Orbe arácnido"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "",
+    NextQuestTitle: ""
+}

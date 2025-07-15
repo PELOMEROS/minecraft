@@ -1,0 +1,247 @@
+{
+    CompleterNpc: "Rafael",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "El mal anda suelto!",
+    Text: "
+El  mafioso que te mandó venir a por nosotros, ha estado arrasando aldeas y pueblos sin piedad. Nosotros te pedimos que le encuentres, es un tipo solitario que vive solo en una torre, pero un montón de gente trabaja para el.
+
+Una vez lo encuentres acaba con el.
+
+Cuidado, trataran de defenderse.
+
+&4Misión
+ -Encuentra a Geriberto y acaba con el.
+
+&4Recompensa
+-Kit de Guerra Celestial
+
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1454031395084L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:diamond_boots",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 5s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Botas caminanubes"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:diamond_leggings",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 0s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Pantalones de Gabriel"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:diamond_helmet",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 0s
+                        },
+                        {
+                            lvl: 3s,
+                            id: 3s
+                        },
+                        {
+                            lvl: 3s,
+                            id: 4s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Casco Angelical"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:chainmail_chestplate",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 2s
+                        },
+                        {
+                            lvl: 5s,
+                            id: 1s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Pechera Divina"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:written_book",
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Te damos tambien la vieja espada de Lucifer, disfrutala!"
+                    ],
+                    author: "bellotero69",
+                    id: 386s,
+                    Count: 1b,
+                    Damage: 0s,
+                    title: "Angeles"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "cutepuppymod:cutepuppymod_RedPuppySword",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 10s,
+                            id: 16s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Espada Tenseiga"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:paper",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:paper",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:paper",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:diamond",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Perla de Geriberto"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias!",
+    NextQuestTitle: ""
+}

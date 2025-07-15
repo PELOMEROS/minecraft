@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Rey Cedric ",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Aniquila la aldea",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 350,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1452448946104L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:writable_book",
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:gold_ingot",
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Coge este libro, escribe lo que la recompensa que desees y veré si puedo cumlir tus oscuros deseos.Deja el libro en el sobre. Buen trabajo, maestro del Mal.",
+    NextQuestTitle: ""
+}

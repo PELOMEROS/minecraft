@@ -1,0 +1,116 @@
+{
+    CompleterNpc: "Pixie",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Amor, Amoroso... Amor",
+    Text: "Hola extraño, ¿me podrías ayudar con una cosilla?. Es una tontería pero verás, resulta que me gusta un chico del poblado pero no se si yo le gusto al el. Una bruja de la aldea cercana me dijo que hay una potente pócima que cambia de color para saber si el esta o no enamorado de mi.
+
+
+&4Misión
+Consigue los 3 ingredientes necesarios para la elaboración.
+
+Son:
+Flecha de Cupido.
+Bote multicolor.
+Agua de la pasión.
+
+Cada uno supone un desafío distinto, encontrarás carteles indicadores para cada uno de los puntos.
+
+&4Recompensa
+-Oro.
+-Tienda de pócimas.
+-Barra de color.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 800,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1447775373401L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "ColorfulMobs:colorWand",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Barra multicolor"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:gold_ingot",
+                Count: 20b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:flowing_water",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Agua de la pasión"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:potion",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Bote multicolor"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:arrow",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Flecha de Cupido"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Ahora podre saber si me quiere o no! Pronto abrire la mejor tienda de pociones de la zona",
+    NextQuestTitle: ""
+}

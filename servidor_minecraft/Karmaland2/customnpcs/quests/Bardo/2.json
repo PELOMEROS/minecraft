@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Bardo",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 1b,
+    Title: "Yuzu para Bardo",
+    Text: "Consigue Yuzu para el respetable de Bardo.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 60,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442749721978L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "minecraft:cooked_beef",
+                Count: 32b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "DCsAppleMilk:defeatedcrow.leafTea",
+                Count: 25b,
+                Damage: 3s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Infinitas gracias. Ahora podré hacer un mejor licor para mis clientes. Eres mi salvador especial @pPuedes traerme yuzu siempre que quieras, estaré disponible.",
+    NextQuestTitle: ""
+}

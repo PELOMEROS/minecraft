@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.80.246.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1752474487460
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752475328672
+  login: 1752551112598
+money: '0'
+last-account-name: carlospelatodo
+lastlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: 667.7611640082939
+  y: 65.0
+  z: 737.5422415185723
+  yaw: -22.503307342529297
+  pitch: 24.5107479095459
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: -4177.742048248362
+  y: 71.0
+  z: -61.03830954330497
+  yaw: -22.469573974609375
+  pitch: 7.409076690673828
+homes:
+  kuchausito:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -4218.526238318407
+    y: 66.0
+    z: -30.338955175586833
+    yaw: -91.8951416015625
+    pitch: 3.599918842315674
+  kuchau:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: 693.5939651229708
+    y: 66.0
+    z: 740.5848352565306
+    yaw: 29.904083251953125
+    pitch: 15.282443046569824

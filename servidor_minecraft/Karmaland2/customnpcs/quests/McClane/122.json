@@ -1,0 +1,72 @@
+{
+    CompleterNpc: "Jeremiah Johnson",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "Comprueba si Jeremiah sigue vivo",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1459474815651L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:gold_ingot",
+                Count: 30b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:paper",
+                Count: 2b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 231s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:golden_apple",
+                Count: 15b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Oh vaya, siento esa explosión...JAJALa verdad es que ha colado lo del truco del muñeco que se parecía a mí... Sí, rapté a su princesa (en realidad la salvé) y esos bichos de palo me siguieron hasta aquí... A ver si se van algún día. Salud!",
+    NextQuestTitle: "",
+    QuestLocation: "Casa de Jeremiah"
+}

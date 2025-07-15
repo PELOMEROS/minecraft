@@ -1,0 +1,203 @@
+[03:34:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[03:34:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[03:34:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:34:30] [ServerMain/INFO]: [FileProviderSource] The spark plugin will not be loaded as this server bundles the spark profiler.
+[03:34:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 19 plugins
+[03:34:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (19):
+ - AxGraves (1.22.3), ChatManager (4.0.3), ClearLag (3.2.2), Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsProtect (2.20.1), EssentialsXMPP (2.20.1), Geyser-Spigot (2.8.2-SNAPSHOT), LuckPerms (5.4.134), Multiverse-Core (5.1.0), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0-SNAPSHOT-723), ServersNPC (5.2), TAB (5.2.4), Vault (1.7.3-b131), ViaBackwards (5.4.1), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b116-0e3163c)), nametags (1.2.2-stable)
+[03:34:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:34:37] [ServerMain/INFO]: Loaded 1370 recipes
+[03:34:37] [ServerMain/INFO]: Loaded 1481 advancements
+[03:34:37] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[03:34:37] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 203.3ms
+[03:34:37] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[03:34:37] [Server thread/INFO]: Loading properties
+[03:34:37] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[03:34:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:34:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:34:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:34:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:34:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:34:38] [Server thread/INFO]: Default game type: SURVIVAL
+[03:34:38] [Server thread/INFO]: Generating keypair
+[03:34:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:34:38] [Server thread/INFO]: Using epoll channel type
+[03:34:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:34:38] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:34:40] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[03:34:40] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[03:34:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:34:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:34:41] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:34:41] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:34:42] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.134
+[03:34:43] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[03:34:43] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[03:34:43] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[03:34:44] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:34:44] [Server thread/INFO]: [floodgate] Took 1,097ms to boot Floodgate
+[03:34:44] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[03:34:44] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[03:34:44] [Server thread/INFO]: [EssentialsProtect] Loading server plugin EssentialsProtect v2.20.1
+[03:34:44] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.1.0
+[03:34:44] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v4.0.3
+[03:34:44] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[03:34:44] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v5.2
+[03:34:44] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[03:34:44] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[03:34:44] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
+[03:34:44] [Server thread/INFO]: [nametags] Loading server plugin nametags v1.2.2-stable
+[03:34:44] [Server thread/INFO]: [EssentialsXMPP] Loading server plugin EssentialsXMPP v2.20.1
+[03:34:44] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[03:34:44] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:34:44] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:34:44] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-723
+[03:34:44] [Server thread/WARN]: [ProtocolLib] Detailed error reporting enabled!
+[03:34:44] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
+[03:34:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:34:45] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.134
+[03:34:45] [Server thread/INFO]:         __    
+[03:34:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.134
+[03:34:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:34:45] [Server thread/INFO]: 
+[03:34:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:34:46] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:34:46] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:34:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:34:47] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1801ms)
+[03:34:47] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[03:34:47] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[03:34:47] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[03:34:47] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[03:34:47] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[03:34:47] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-723
+[03:34:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:34:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:34:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:34:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:34:47] [Server thread/INFO]: Preparing level "world"
+[03:34:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:34:48] [Server thread/INFO]: Preparing spawn area: 0%
+[03:34:48] [Server thread/INFO]: Preparing spawn area: 2%
+[03:34:48] [Server thread/INFO]: Preparing spawn area: 2%
+[03:34:49] [Server thread/INFO]: Time elapsed: 1085 ms
+[03:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:34:49] [Server thread/INFO]: Preparing spawn area: 0%
+[03:34:49] [Server thread/INFO]: Preparing spawn area: 14%
+[03:34:49] [Server thread/INFO]: Time elapsed: 800 ms
+[03:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:34:49] [Server thread/INFO]: Preparing spawn area: 0%
+[03:34:50] [Server thread/INFO]: Time elapsed: 237 ms
+[03:34:50] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[03:34:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[03:34:50] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[03:34:50] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:34:50] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[03:34:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[03:34:50] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[03:34:51] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:34:51] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:34:51] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[03:34:51] [Server thread/INFO]: [Essentials] Using locale en
+[03:34:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:34:51] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:34:51] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[03:34:51] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[03:34:51] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[03:34:52] [Server thread/INFO]: [TAB] [WARN] [groups.yml] Unknown property "customtagname" defined for group "_DEFAULT_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[03:34:52] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "abovename" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[03:34:52] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "belowname" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[03:34:52] [Server thread/INFO]: [TAB] [WARN] Found a total of 3 issues.
+[03:34:52] [Server thread/INFO]: [TAB] Enabled in 246ms
+[03:34:52] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.20.1
+[03:34:52] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[03:34:52] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[03:34:52] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0
+[03:34:53] [Server thread/INFO]: Preparing start region for dimension minecraft:karmaland2
+[03:34:53] [Server thread/INFO]: Preparing spawn area: 0%
+[03:34:53] [Server thread/INFO]: Preparing spawn area: 14%
+[03:34:54] [Server thread/INFO]: Preparing spawn area: 42%
+[03:34:54] [Server thread/INFO]: Time elapsed: 1241 ms
+[03:34:54] [Server thread/INFO]: Preparing start region for dimension minecraft:lobyy
+[03:34:54] [Server thread/INFO]: Preparing spawn area: 0%
+[03:34:55] [Server thread/INFO]: Preparing spawn area: 75%
+[03:34:55] [Server thread/INFO]: Time elapsed: 601 ms
+[03:34:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.1.0]
+[03:34:55] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[03:34:55] [Server thread/INFO]: [Multiverse-Core] Version 5.1.0 (API v5.1) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[03:34:55] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[03:34:55] [Server thread/INFO]: [ChatManager] Enabling ChatManager v4.0.3
+[03:34:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [4.0.3]
+[03:34:55] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[03:34:55] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.2
+[03:34:55] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[03:34:55] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[03:34:55] [Server thread/INFO]: [ClearLag] Loading modules...
+[03:34:55] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[03:34:55] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[03:34:55] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[03:34:55] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[03:34:55] [Thread-8/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[03:34:55] [Thread-8/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[03:34:55] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[03:34:55] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[03:34:55] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[03:34:55] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:34:55] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[03:34:55] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[03:34:55] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
+[03:34:56] [Server thread/INFO]: [nametags] Enabling nametags v1.2.2-stable
+[03:34:56] [Server thread/INFO]: [nametags] NameTagPlugin has been enabled.
+[03:34:56] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.20.1
+[03:34:56] [Server thread/WARN]: [EssentialsXMPP] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[03:34:56] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[03:34:56] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[03:34:57] [Server thread/INFO]: [spark] Starting background profiler...
+[03:34:57] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[03:34:57] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:34:57] [Server thread/INFO]: [Geyser-Spigot] 
+[03:34:57] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b875 (git-master-3174154)
+[03:34:57] [Server thread/INFO]: [Geyser-Spigot] 
+[03:34:57] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:35:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[03:35:01] [Server thread/INFO]: [Geyser-Spigot] Done (3.783s)! Run /geyser help for help!
+[03:35:01] [Server thread/INFO]: Done preparing level "world" (14.637s)
+[03:35:01] [Server thread/INFO]: Running delayed init tasks
+[03:35:01] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:35:01] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[03:35:01] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[03:35:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[03:35:01] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[03:35:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.3]
+[03:35:01] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[03:35:01] [Server thread/INFO]: Done (38.688s)! For help, type "help"
+[03:35:02] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[03:35:02] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.1.
+[03:35:02] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[03:35:02] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.3.0 (Running 5.3.0-SNAPSHOT-723). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[03:36:12] [User Authenticator #0/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[03:36:12] [Server thread/INFO]: Slowin_S joined the game
+[03:36:12] [Server thread/INFO]: Slowin_S[/100.80.144.71:64687] logged in with entity id 97 at ([world]-4175.54729417549, 77.0, -25.395504406201514)
+[03:36:12] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[03:36:48] [Server thread/INFO]: Slowin_S issued server command: /gm 1|
+[03:36:52] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[03:42:24] [Server thread/INFO]: Slowin_S issued server command: /day
+[03:42:27] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[03:44:20] [Server thread/INFO]: Slowin_S issued server command: /day
+[03:44:40] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[03:44:43] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[03:44:57] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[03:45:03] [Server thread/WARN]: Slowin_S moved too quickly! 12.187117960659691,0.530078009832124,-6.167704046821541
+[03:45:11] [User Authenticator #1/INFO]: UUID of player carlospelatodo is 9ab9b2ae-7c63-37ed-8214-a1f03a54a363
+[03:45:12] [Server thread/INFO]: carlospelatodo joined the game
+[03:45:12] [Server thread/INFO]: carlospelatodo[/100.80.246.77:50264] logged in with entity id 1809 at ([world]-4177.742048248362, 71.0, -61.03830954330497)
+[03:45:12] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[03:45:18] [User Authenticator #1/INFO]: UUID of player ReckerDMS is fbdee47f-6ddc-34bd-9d35-f9ce8404bed3
+[03:45:20] [Server thread/INFO]: ReckerDMS joined the game
+[03:45:20] [Server thread/INFO]: ReckerDMS[/100.120.167.117:52650] logged in with entity id 2024 at ([world]-3859.512499988079, 56.0, -396.64765732075557)
+[03:45:20] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[03:45:30] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[03:46:22] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[03:46:23] [Server thread/INFO]: Slowin_S left the game
+[03:46:23] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[03:55:21] [Server thread/INFO]: ReckerDMS issued server command: /sethome Marina

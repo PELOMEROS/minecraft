@@ -1,0 +1,70 @@
+{
+    CompleterNpc: "Tarkovsky",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Consigue los 4 pergaminos",
+    Text: "Recupera 4 pergminos de una mina antigua, situada al este del Lago de Amana.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 60,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442541088735L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 4b,
+                id: "minecraft:gold_ingot",
+                Count: 34b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:diamond",
+                Count: 2b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcLetter",
+                Count: 4b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Pergamino"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Genial. Toma la mitad del oro de la recompensa. Hemos hecho un gran equipo eh!Cuidate compañero jeje.",
+    NextQuestTitle: ""
+}

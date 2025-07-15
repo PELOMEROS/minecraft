@@ -1,0 +1,67 @@
+{
+    CompleterNpc: "Percy",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "_....-.-.-.....",
+    Text: "Invasión…… -...------..-.---.-----.--.-.-.---.--.-.- STOP. 
+
+Recupera nuestro Bloque de Energía ..-.-.---.-.--..-.-.-.---. STOP.
+
+&4Recompensa
+
+-Armadura Custom, podrás pedir la que desees.
+-EXP
+
+Dejaré instrucciones en tu casa para que puedas conseguir tu armadura.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 1200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1467544512173L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:redstone_block",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Bloque de Energia"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias!",
+    NextQuestTitle: ""
+}

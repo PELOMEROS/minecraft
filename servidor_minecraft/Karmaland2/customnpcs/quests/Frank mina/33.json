@@ -1,0 +1,123 @@
+{
+    CompleterNpc: "Armos",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "El rescate!",
+    Text: "¡Que alegría verte de nuevo! Cuando me enteré de tu regreso me acerque aquí para poder pedirte un gran favor.
+El minero que me suele traer los metales que uso ha quedado atrapado por unas criaturas malvadas, necesito tu heroica colaboración para salvarle la vida y traerme los metales.
+
+&4Misión
+Rescata a Arkadme y tráeme los 10 lingotes de ACERO OSCURO.
+
+
+&4Recompensa
+-Experiencia.
+-Bloques variados.
+-Oro.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1446493847167L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:log",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:sandstone",
+                Count: 64b,
+                Damage: 2s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:stained_glass",
+                Count: 64b,
+                Damage: 8s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:quartz_block",
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:stained_hardened_clay",
+                Count: 64b,
+                Damage: 12s
+            },
+            {
+                Slot: 5b,
+                id: "chisel:jungle_planks",
+                Count: 64b,
+                Damage: 6s
+            },
+            {
+                Slot: 6b,
+                id: "chisel:lavastone",
+                Count: 64b,
+                Damage: 1s
+            },
+            {
+                Slot: 7b,
+                id: "chisel:jackolantern14",
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:gold_ingot",
+                Count: 18b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "ImmersiveEngineering:metal",
+                Count: 10b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Acero oscuro"
+                    }
+                },
+                Damage: 20s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Aquí tienes!",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,95 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.92.131.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722061789211
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751952193549
+  login: 1751949796796
+money: '0'
+last-account-name: WichoCT
+logoutlocation:
+  world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+  world-name: world
+  x: 450.3791687418257
+  y: 105.0
+  z: 649.4801480155621
+  yaw: -6.9127197265625
+  pitch: -14.70002269744873
+lastlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -250.5
+  y: 77.0
+  z: 802.5
+  yaw: -113.4000015258789
+  pitch: 33.599998474121094
+homes:
+  wich0:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -62.8872644527332
+    y: 63.0
+    z: 484.53076766678345
+    yaw: 158.5390625
+    pitch: 32.850006103515625
+  sergio:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -795.5
+    y: 19.0
+    z: 652.5
+    yaw: -82.54068756103516
+    pitch: 26.2496337890625
+  luisito:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 10.635586392479519
+    y: 69.0
+    z: 417.39222833004067
+    yaw: 167.5247802734375
+    pitch: 24.89972686767578
+  portales:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -292.76112655472366
+    y: 79.0
+    z: 870.6637882273185
+    yaw: 120.54483032226562
+    pitch: 33.1499137878418
+  aldeanos:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 4949.6074459726915
+    y: 71.8500000178814
+    z: -3709.192579441681
+    yaw: 27.070301055908203
+    pitch: 38.54995346069336
+  axel:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -451.93687836924533
+    y: 57.0625
+    z: 2.3406330471173886
+    yaw: 82.67755126953125
+    pitch: 33.60030746459961
+  torre:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 6079.252786776941
+    y: 70.0
+    z: -5423.55895118775
+    yaw: 90.95260620117188
+    pitch: 24.750001907348633

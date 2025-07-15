@@ -1,0 +1,123 @@
+{
+    CompleterNpc: "Chim",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "La manzana!",
+    Text: "&4INFO
+Unos maleantes me han robado la Manzana del Karma.
+
+&4Misión
+ 
+Encuentra su campamento y recupera para mi la manzana, te dejo indicada la zona por donde pueden estar.. 
+
+&4Recompensa
+-Manzanas de oro especiales
+-Experiencia.
+-Diamantes
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1457799161725L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:golden_apple",
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:golden_apple",
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:golden_apple",
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:diamond",
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:golden_apple",
+                Count: 2b,
+                Damage: 1s
+            },
+            {
+                Slot: 5b,
+                id: "minecraft:diamond",
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "minecraft:diamond",
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: "minecraft:diamond",
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "minecraft:diamond",
+                Count: 3b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:golden_apple",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Manzana del Karma"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Toma!",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,95 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.132.203.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721529023069
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721529569329
+  login: 1721529544302
+money: '0'
+last-account-name: OmniTiwch
+logoutlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: -1.2094666187122733
+  y: 72.0
+  z: 1284.1588431954433
+  yaw: 135.5921173095703
+  pitch: 33.12638854980469
+lastlocation:
+  world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+  world-name: world
+  x: 4402.534916599098
+  y: 80.0
+  z: -4230.832599848724
+  yaw: 27.681121826171875
+  pitch: 48.9736213684082
+homes:
+  tierra:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 619.6300952484636
+    y: 68.0
+    z: 395.69999998807907
+    yaw: -135.87579345703125
+    pitch: 40.137664794921875
+  cueva:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -260.9298072088479
+    y: 60.0625
+    z: 1391.5511851964732
+    yaw: -261.0767517089844
+    pitch: 16.16363525390625
+  aldea:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: -32.44635956758049
+    y: 64.0
+    z: 1273.073766172311
+    yaw: -218.929443359375
+    pitch: 11.920166015625
+  nether:
+    world: 0368fd0d-097a-4557-866f-a21a8fbcd211
+    world-name: DIM-1
+    x: -283.4097216311658
+    y: 14.0
+    z: 171.69526792370846
+    yaw: 174.04664611816406
+    pitch: 49.05052185058594
+  endportal:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 118.52663923485369
+    y: 15.0
+    z: 2910.961740431782
+    yaw: 133.88037109375
+    pitch: 21.649818420410156
+  prueba:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 2771.8128169175216
+    y: 70.0
+    z: -1930.3986755066849
+    yaw: -91.22805786132812
+    pitch: 23.30063247680664
+  explo:
+    world: c1f270bf-118a-44ab-9cd0-351bdf65e14d
+    world-name: world
+    x: 4402.31333214204
+    y: 79.0
+    z: -4231.699999988079
+    yaw: 2.8548583984375
+    pitch: 1.6589431762695312

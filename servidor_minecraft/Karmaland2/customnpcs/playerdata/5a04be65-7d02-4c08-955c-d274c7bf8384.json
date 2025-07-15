@@ -1,0 +1,319 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        },
+        {
+            Points: 1000,
+            Faction: 1
+        },
+        {
+            Points: 0,
+            Faction: 2
+        },
+        {
+            Points: 1000,
+            Faction: 6
+        },
+        {
+            Points: 1000,
+            Faction: 7
+        },
+        {
+            Points: 1000,
+            Faction: 8
+        },
+        {
+            Points: 1000,
+            Faction: 9
+        }
+    ],
+    BankData: [
+        {
+            BankInv: [
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                            {
+                                Slot: 38b,
+                                id: "minecraft:diamond_boots",
+                                Count: 1b,
+                                Damage: 60s
+                            },
+                            {
+                                Slot: 40b,
+                                id: "minecraft:diamond_leggings",
+                                Count: 1b,
+                                Damage: 60s
+                            },
+                            {
+                                Slot: 25b,
+                                id: "minecraft:diamond_helmet",
+                                Count: 1b,
+                                Damage: 60s
+                            },
+                            {
+                                Slot: 42b,
+                                id: "minecraft:diamond_chestplate",
+                                Count: 1b,
+                                Damage: 60s
+                            },
+                            {
+                                Slot: 30b,
+                                id: "chisel:marble_slab",
+                                Count: 1b,
+                                Damage: 14s
+                            }
+                        ]
+                    },
+                    Slot: 0
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                            {
+                                Slot: 24b,
+                                id: "minecraft:stonebrick",
+                                Count: 1b,
+                                Damage: 0s
+                            },
+                            {
+                                Slot: 26b,
+                                id: "minecraft:redstone_block",
+                                Count: 1b,
+                                Damage: 0s
+                            },
+                            {
+                                Slot: 13b,
+                                id: "minecraft:golden_apple",
+                                Count: 1b,
+                                Damage: 0s
+                            }
+                        ]
+                    },
+                    Slot: 1
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 2
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 3
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 4
+                },
+                {
+                    BankItems: {
+                        NpcMiscInv: [
+                        ]
+                    },
+                    Slot: 5
+                }
+            ],
+            UpdatedSlots: [
+                {
+                    Slot: 0,
+                    Boolean: 1b
+                },
+                {
+                    Slot: 1,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 2,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 3,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 4,
+                    Boolean: 0b
+                },
+                {
+                    Slot: 5,
+                    Boolean: 0b
+                }
+            ],
+            DataBankId: 1,
+            UnlockedSlots: 2
+        }
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+        {
+            Sender: "KoloPanoco",
+            BeenRead: 0b,
+            Message: {
+                pages: [
+                    "dsdsadsa"
+                ]
+            },
+            MailItems: [
+            ],
+            MailQuest: -1,
+            TimePast: 21837935303L,
+            Time: 1444781685141L,
+            Subject: "KoloPanoco"
+        },
+        {
+            Sender: "KoloPanoco",
+            BeenRead: 0b,
+            Message: {
+                pages: [
+                    "Hola"
+                ]
+            },
+            MailItems: [
+                {
+                    Slot: 0b,
+                    id: "customnpcs:npcLetter",
+                    Count: 1b,
+                    Damage: 0s
+                }
+            ],
+            MailQuest: -1,
+            TimePast: 20380216281L,
+            Time: 1446239404163L,
+            Subject: "KoloPanoco"
+        }
+    ],
+    PlayerName: "killercreeper_55",
+    QuestData: {
+        CompletedQuests: [
+            {
+                Quest: 1,
+                Date: 20642775L
+            },
+            {
+                Quest: 2,
+                Date: 20649375L
+            },
+            {
+                Quest: 14,
+                Date: 46753678L
+            }
+        ],
+        ActiveQuests: [
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 5
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 54
+            },
+            {
+                QuestCompleted: 0b,
+                ExtraData: {
+                },
+                Quest: 7
+            }
+        ]
+    },
+    UUID: "5a04be65-7d02-4c08-955c-d274c7bf8384",
+    PlayerCompanionId: 0,
+    DialogData: [
+        {
+            Dialog: 128
+        },
+        {
+            Dialog: 4
+        },
+        {
+            Dialog: 5
+        },
+        {
+            Dialog: 7
+        },
+        {
+            Dialog: 8
+        },
+        {
+            Dialog: 9
+        },
+        {
+            Dialog: 15
+        },
+        {
+            Dialog: 19
+        },
+        {
+            Dialog: 20
+        },
+        {
+            Dialog: 21
+        },
+        {
+            Dialog: 24
+        },
+        {
+            Dialog: 25
+        },
+        {
+            Dialog: 26
+        },
+        {
+            Dialog: 27
+        },
+        {
+            Dialog: 28
+        },
+        {
+            Dialog: 33
+        },
+        {
+            Dialog: 34
+        },
+        {
+            Dialog: 35
+        },
+        {
+            Dialog: 36
+        },
+        {
+            Dialog: 37
+        },
+        {
+            Dialog: 44
+        },
+        {
+            Dialog: 45
+        },
+        {
+            Dialog: 46
+        },
+        {
+            Dialog: 47
+        },
+        {
+            Dialog: 48
+        },
+        {
+            Dialog: 54
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    CompleterNpc: "Botania",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Botania!",
+    Text: "
+Hola, soy Botania, gracias por venir a ayudarnos, necesito tu ayuda para conseguir 64 cactus, además necesitaré que hagas una granja usando 16 de ellos de manera que se puedan cultivar, pon el resto en el cofre que tengo al lado.
+
+&4Recompensa
+
+-EXP.
+-Diamantes.
+
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 1200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1466439249721L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 3b,
+                id: "minecraft:diamond",
+                Count: 14b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:cactus",
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "Gracias!",
+    NextQuestTitle: ""
+}

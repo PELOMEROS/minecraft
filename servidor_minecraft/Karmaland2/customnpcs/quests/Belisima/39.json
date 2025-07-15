@@ -1,0 +1,128 @@
+{
+    CompleterNpc: "Belísima",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Portal de teletransporte",
+    Text: "Encuentra los materiales especiales en el castillo.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 120,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1448740694746L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:gold_ingot",
+                Count: 32b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "minecraft:cooked_porkchop",
+                Count: 32b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "minecraft:diamond",
+                Count: 9b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 33s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: "minecraft:book",
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 1s,
+                            id: 21s
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcLightningSpell",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Rayo Perpetuo"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: "customnpcs:npcBloodBlock",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Sangre de inocente"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "customnpcs:npcBrokenArrow",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Flecha Titánica"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Muchas gracias.En breves me pondré a ello y podrás desplazarte hasta aquí más rápido.;)",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,92 @@
+{
+    CompleterNpc: "Arwaid",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "La invasión de Brujilda",
+    Text: "Un maldito grupo de brujas ha invadido nuestra preciosa ciudad. Dejándonos sin hogar...
+
+&4Misión
+
+Acaba con todas las brujas y recupera el orbe para evitar que vuelva a pasar nada parecido..
+ 
+&Recompensa
+
+-Exp
+-2 Bonos Karma$
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 1500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1457872288278L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "minecraft:book",
+                Count: 2b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 3s,
+                            id: 5s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        Name: "Bono Karma$"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: "minecraft:diamond",
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "customnpcs:npcOrb",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Orbe"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias!",
+    NextQuestTitle: ""
+}

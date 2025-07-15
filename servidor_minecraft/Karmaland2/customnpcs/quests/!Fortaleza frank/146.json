@@ -1,0 +1,125 @@
+{
+    CompleterNpc: "Christine",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Los Oscuros",
+    Text: "Unos seres de la oscuridad han invadido otra de nuestras fortalezas lejanas, ayúdanos con el problema, y sabremos recompensar tu trabajo muy bien..
+
+
+&3Misión
+
+Ve allí, acaba con todos los enemigos y trae un Fragmento de vacío que es lo que estabamos custodiando allí. 
+
+
+&4Recompensa
+
+- Esencias varias.
+- Puedes pedir lo que quieras.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 2000,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465340001119L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "Thaumcraft:ItemWispEssence",
+                Count: 3b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 2,
+                            key: "aqua"
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: "Thaumcraft:ItemWispEssence",
+                Count: 3b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 2,
+                            key: "ordo"
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: "Thaumcraft:ItemWispEssence",
+                Count: 3b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 2,
+                            key: "aer"
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: "Thaumcraft:ItemWispEssence",
+                Count: 3b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 2,
+                            key: "ignis"
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: "Thaumcraft:ItemNugget",
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Fragmento de Vacío"
+                    }
+                },
+                Damage: 7s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Gracias, no olvides pedir lo que quieras.",
+    NextQuestTitle: ""
+}
