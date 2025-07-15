@@ -419,3 +419,22 @@
 [04:47:10] [Server thread/INFO]: Amatzumagasuchi[/100.111.187.45:50497] logged in with entity id 19374 at ([world]665.7101994697277, 64.0, 745.2931854286992)
 [04:47:10] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
 [04:48:05] [Server thread/INFO]: Amatzumagasuchi has made the advancement [A Seedy Place]
+[04:48:53] [Server thread/INFO]: Slowin_S issued server command: /tp carlospelatodo
+[04:49:15] [Server thread/INFO]: Amatzumagasuchi has made the advancement [Cover Me with Diamonds]
+[04:49:32] [Server thread/INFO]: Slowin_S issued server command: /home savana
+[04:50:09] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[04:50:09] [Server thread/INFO]: ReckerDMS issued server command: /tpahere Slowin_S
+[04:52:03] [Server thread/INFO]: Slowin_S issued server command: /tpaccept
+[04:52:59] [Server thread/INFO]: Slowin_S issued server command: /sethome axel
+[04:53:28] [Server thread/INFO]: Slowin_S issued server command: /home savana
+[04:55:13] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
+[04:55:28] [Server thread/INFO]: carlospelatodo issued server command: /home kuchausito
+[04:56:21] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[04:56:21] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
+[04:56:21] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
+[04:56:21] [Server thread/INFO]: .ABELARD03451 left the game
+[04:56:22] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[04:56:32] [Server thread/INFO]: ReckerDMS lost connection: Disconnected
+[04:56:32] [Server thread/INFO]: ReckerDMS left the game
+[04:56:32] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[04:57:41] [Server thread/INFO]: Slowin_S issued server command: /gm 1

@@ -3982,3 +3982,13 @@
 [Tue Jul 15 04:45:02 UTC 2025] ReckerDMS: /home
 [Tue Jul 15 04:45:09 UTC 2025] ReckerDMS: /home alpha
 [Tue Jul 15 04:45:49 UTC 2025] .ABELARD03451: /home vege
+[Tue Jul 15 04:48:53 UTC 2025] Slowin_S: /tp carlospelatodo
+[Tue Jul 15 04:49:32 UTC 2025] Slowin_S: /home savana
+[Tue Jul 15 04:50:09 UTC 2025] Slowin_S: /gm 1
+[Tue Jul 15 04:50:09 UTC 2025] ReckerDMS: /tpahere Slowin_S
+[Tue Jul 15 04:52:03 UTC 2025] Slowin_S: /tpaccept
+[Tue Jul 15 04:52:59 UTC 2025] Slowin_S: /sethome axel
+[Tue Jul 15 04:53:28 UTC 2025] Slowin_S: /home savana
+[Tue Jul 15 04:55:13 UTC 2025] carlospelatodo: /home kuchau
+[Tue Jul 15 04:55:28 UTC 2025] carlospelatodo: /home kuchausito
+[Tue Jul 15 04:57:41 UTC 2025] Slowin_S: /gm 1

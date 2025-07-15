@@ -11,12 +11,12 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752554712276
+  lastteleport: 1752555123572
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752475355669
+  logout: 1752555392333
   login: 1752551120555
 money: '0'
 last-account-name: ReckerDMS
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -3859.512499988079
-  y: 56.0
-  z: -396.64765732075557
-  yaw: 171.48065185546875
-  pitch: 44.99999237060547
+  x: -4002.993933797007
+  y: 36.0
+  z: -32.183408557320135
+  yaw: -171.89987182617188
+  pitch: 4.050017833709717
 homes:
   alpha:
     world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc

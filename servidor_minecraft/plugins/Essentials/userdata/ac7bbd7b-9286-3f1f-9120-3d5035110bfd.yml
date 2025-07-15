@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752554609401
+  lastteleport: 1752555208750
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Slowin_S
 lastlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -3942.41281028138
-  y: -29.0
-  z: -1.024999773293809
-  yaw: -139.65692138671875
-  pitch: 22.26471519470215
+  x: -4001.476963985673
+  y: 36.0
+  z: -37.17563502009677
+  yaw: -170.94903564453125
+  pitch: 6.582658767700195
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
@@ -77,3 +77,11 @@ homes:
     z: -18.314217639177084
     yaw: -92.7200927734375
     pitch: 16.850906372070312
+  axel:
+    world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
+    world-name: world
+    x: -3996.9708652748677
+    y: 36.0
+    z: -31.19692155097773
+    yaw: 173.40496826171875
+    pitch: 9.014840126037598
