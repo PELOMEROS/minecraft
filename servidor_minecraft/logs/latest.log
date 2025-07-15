@@ -208,3 +208,28 @@
 [04:00:43] [Server thread/INFO]: .ABELARD03451 joined the game
 [04:00:43] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 5613 at ([world]-4099.65530986435, 63.05993596353328, 24.69842)
 [04:00:43] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[04:10:15] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[04:10:15] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
+[04:10:15] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
+[04:10:15] [Server thread/INFO]: .ABELARD03451 left the game
+[04:10:15] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[04:10:40] [User Authenticator #2/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[04:10:40] [Server thread/INFO]: Slowin_S joined the game
+[04:10:40] [Server thread/INFO]: Slowin_S[/100.80.144.71:64992] logged in with entity id 9257 at ([world]-4197.681324907267, 71.0, -37.61935003514922)
+[04:10:40] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[04:12:08] [Server thread/INFO]: Slowin_S issued server command: /znpcs action 3 false
+[04:12:27] [Server thread/INFO]: Slowin_S issued server command: /znpcs action 3 info
+[04:12:33] [Server thread/INFO]: Slowin_S issued server command: /znpcs action 3 info
+[04:12:58] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
+[04:13:04] [Server thread/INFO]: Slowin_S issued server command: /znpcs equip 3
+[04:13:17] [Server thread/INFO]: Slowin_S issued server command: /home aldea
+[04:14:10] [Server thread/INFO]: Slowin_S issued server command: /home hplaaa
+[04:14:53] [Server thread/INFO]: Slowin_S issued server command: /home aldea
+[04:15:34] [Server thread/INFO]: Slowin_S issued server command: /home savana
+[04:16:21] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[04:16:29] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[04:16:36] [Server thread/INFO]: Slowin_S issued server command: /tpa ReckerDMS
+[04:16:45] [Server thread/INFO]: ReckerDMS issued server command: /tpaccept
+[04:17:15] [Server thread/INFO]: carlospelatodo issued server command: /tpa slowin_s
+[04:17:23] [Server thread/INFO]: Slowin_S issued server command: /tpaccept
+[04:18:43] [Server thread/INFO]: ReckerDMS issued server command: /sethome cueva2

@@ -3958,3 +3958,19 @@
 [Tue Jul 15 03:45:30 UTC 2025] Slowin_S: /gm 0
 [Tue Jul 15 03:55:21 UTC 2025] ReckerDMS: /sethome Marina
 [Tue Jul 15 03:55:58 UTC 2025] ReckerDMS: /home alpha
+[Tue Jul 15 04:12:08 UTC 2025] Slowin_S: /znpcs action 3 false
+[Tue Jul 15 04:12:27 UTC 2025] Slowin_S: /znpcs action 3 info
+[Tue Jul 15 04:12:33 UTC 2025] Slowin_S: /znpcs action 3 info
+[Tue Jul 15 04:12:58 UTC 2025] carlospelatodo: /home kuchau
+[Tue Jul 15 04:13:04 UTC 2025] Slowin_S: /znpcs equip 3
+[Tue Jul 15 04:13:17 UTC 2025] Slowin_S: /home aldea
+[Tue Jul 15 04:14:10 UTC 2025] Slowin_S: /home hplaaa
+[Tue Jul 15 04:14:53 UTC 2025] Slowin_S: /home aldea
+[Tue Jul 15 04:15:34 UTC 2025] Slowin_S: /home savana
+[Tue Jul 15 04:16:21 UTC 2025] Slowin_S: /gm 1
+[Tue Jul 15 04:16:29 UTC 2025] Slowin_S: /gm 0
+[Tue Jul 15 04:16:36 UTC 2025] Slowin_S: /tpa ReckerDMS
+[Tue Jul 15 04:16:45 UTC 2025] ReckerDMS: /tpaccept
+[Tue Jul 15 04:17:15 UTC 2025] carlospelatodo: /tpa slowin_s
+[Tue Jul 15 04:17:23 UTC 2025] Slowin_S: /tpaccept
+[Tue Jul 15 04:18:43 UTC 2025] ReckerDMS: /sethome cueva2
