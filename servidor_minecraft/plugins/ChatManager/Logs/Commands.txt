@@ -4015,3 +4015,7 @@
 [Thu Jul 17 05:55:32 UTC 2025] Slowin_S: /tp ReckerDMS
 [Thu Jul 17 06:01:42 UTC 2025] Slowin_S: /gm 1
 [Thu Jul 17 06:01:44 UTC 2025] Slowin_S: /gm 0
+[Thu Jul 17 06:04:05 UTC 2025] carlospelatodo: /tpa slowin_s
+[Thu Jul 17 06:04:50 UTC 2025] Slowin_S: /tpaccept
+[Thu Jul 17 06:05:07 UTC 2025] Slowin_S: /tp ReckerDMS
+[Thu Jul 17 06:07:11 UTC 2025] Slowin_S: /tphere ReckerDMS
