@@ -214,3 +214,23 @@
 [05:26:47] [Server thread/INFO]: [Slowin_S: The difficulty has been set to Normal]
 [05:29:50] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
 [05:30:26] [Server thread/INFO]: carlospelatodo issued server command: /home kuchausito
+[05:33:05] [Server thread/INFO]: ReckerDMS issued server command: /sethome grand
+[05:33:17] [Server thread/INFO]: Slowin_S issued server command: /locate biome minecraft:savanna_plateau
+[05:33:18] [Server thread/INFO]: Locating element minecraft:savanna_plateau took 942 ms
+[05:33:31] [Async Chat Thread - #0/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:33:37] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
+[05:34:49] [Async Chat Thread - #1/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:35:02] [Server thread/WARN]: Birch Boat (vehicle of Slowin_S) moved wrongly! 0.35229377156883857
+[05:35:02] [Server thread/WARN]: Birch Boat (vehicle of Slowin_S) moved wrongly! 0.5663476818108393
+[05:36:08] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[05:36:08] [localSession-7-2/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[05:36:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
+[05:36:09] [Server thread/INFO]: .ABELARD03451 joined the game
+[05:36:09] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 10974 at ([world]-4083.7388, 63.0, 27.579706)
+[05:36:09] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:36:34] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[05:36:51] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[05:36:54] [Async Chat Thread - #3/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:37:27] [Async Chat Thread - #3/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:38:43] [Server thread/WARN]: Birch Boat (vehicle of ReckerDMS) moved wrongly! 0.2619461642792733
+[05:41:16] [Async Chat Thread - #5/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
