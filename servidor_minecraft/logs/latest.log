@@ -250,3 +250,33 @@
 [05:50:00] [Server thread/INFO]: .ABELARD03451 joined the game
 [05:50:00] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 19415 at ([world]-4167.3154, 71.0, -42.267807)
 [05:50:00] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:55:02] [Server thread/INFO]: carlospelatodo fell from a high place
+[05:55:25] [Server thread/INFO]: Slowin_S issued server command: /tp carlospelatodo ReckerDMS
+[05:55:32] [Server thread/INFO]: Slowin_S issued server command: /tp ReckerDMS
+[05:59:39] [Server thread/INFO]: carlospelatodo lost connection: Disconnected
+[05:59:39] [Server thread/INFO]: carlospelatodo left the game
+[05:59:39] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:59:43] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[05:59:43] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
+[05:59:43] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
+[05:59:43] [Server thread/INFO]: .ABELARD03451 left the game
+[05:59:43] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:01:13] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[06:01:13] [localSession-7-4/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[06:01:13] [User Authenticator #5/INFO]: UUID of player ABELARD03451 is 6b989650-5da1-3b06-8518-c55ecce001af
+[06:01:13] [Server thread/INFO]: ABELARD03451 joined the game
+[06:01:13] [Server thread/INFO]: ABELARD03451[/100.83.254.78:0] logged in with entity id 25095 at ([world]711.9872, 64.0, 754.9941)
+[06:01:13] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:01:42] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[06:01:44] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[06:02:11] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[06:02:11] [Server thread/INFO]: ABELARD03451 lost connection: Disconnected
+[06:02:11] [Server thread/INFO]: ABELARD03451 left the game
+[06:02:11] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:02:26] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[06:02:26] [localSession-7-1/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[06:02:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
+[06:02:26] [Server thread/INFO]: .ABELARD03451 joined the game
+[06:02:26] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 25661 at ([world]-4202.9946, 85.0, -33.55931)
+[06:02:26] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:03:17] [Server thread/INFO]: ReckerDMS has made the advancement [Sneak 100]
