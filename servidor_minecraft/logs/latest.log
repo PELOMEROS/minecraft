@@ -234,3 +234,19 @@
 [05:37:27] [Async Chat Thread - #3/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
 [05:38:43] [Server thread/WARN]: Birch Boat (vehicle of ReckerDMS) moved wrongly! 0.2619461642792733
 [05:41:16] [Async Chat Thread - #5/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:44:10] [Async Chat Thread - #8/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:47:22] [Async Chat Thread - #9/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
+[05:48:25] [Server thread/INFO]: .ABELARD03451 issued server command: /home vege
+[05:48:38] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[05:48:38] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
+[05:48:38] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
+[05:48:38] [Server thread/INFO]: .ABELARD03451 left the game
+[05:48:38] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:49:01] [Server thread/INFO]: Slowin_S issued server command: /home meseta
+[05:49:07] [Server thread/INFO]: Slowin_S issued server command: /sethome meseta
+[05:50:00] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[05:50:00] [localSession-7-3/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[05:50:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
+[05:50:00] [Server thread/INFO]: .ABELARD03451 joined the game
+[05:50:00] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 19415 at ([world]-4167.3154, 71.0, -42.267807)
+[05:50:00] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
