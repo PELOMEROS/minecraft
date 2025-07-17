@@ -34,12 +34,7 @@ Karmaland2:
     pitch: 0.0
     yaw: 0.0
   spawning:
-    water_underground_creature:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    water_animal:
+    ambient:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -49,7 +44,12 @@ Karmaland2:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    ambient:
+    water_animal:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    water_underground_creature:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -92,16 +92,6 @@ LOBYY:
     pitch: 10.983305
     yaw: 5.972351
   spawning:
-    misc:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    monster:
-      spawn: false
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
     animal:
       spawn: true
       tick-rate: -1
@@ -109,6 +99,16 @@ LOBYY:
       exceptions: []
     ambient:
       spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    misc:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    monster:
+      spawn: false
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
@@ -150,17 +150,12 @@ world:
     pitch: 16.860727
     yaw: -86.553116
   spawning:
-    water_underground_creature:
+    animal:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    water_animal:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    water_ambient:
+    ambient:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -170,12 +165,7 @@ world:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    monster:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    animal:
+    water_animal:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -185,7 +175,17 @@ world:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    ambient:
+    water_underground_creature:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    monster:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    water_ambient:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
