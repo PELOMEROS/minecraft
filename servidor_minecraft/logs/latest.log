@@ -206,3 +206,11 @@
 [05:18:56] [Server thread/INFO]: Slowin_S lost connection: Disconnected
 [05:18:56] [Server thread/INFO]: Slowin_S left the game
 [05:18:56] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:23:33] [User Authenticator #4/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[05:23:33] [Server thread/INFO]: Slowin_S joined the game
+[05:23:33] [Server thread/INFO]: Slowin_S[/100.80.144.71:50362] logged in with entity id 6424 at ([world]-4181.520279727753, 71.0, -31.970413269759234)
+[05:23:33] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:26:47] [Server thread/INFO]: Slowin_S issued server command: /difficulty normal
+[05:26:47] [Server thread/INFO]: [Slowin_S: The difficulty has been set to Normal]
+[05:29:50] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
+[05:30:26] [Server thread/INFO]: carlospelatodo issued server command: /home kuchausito
