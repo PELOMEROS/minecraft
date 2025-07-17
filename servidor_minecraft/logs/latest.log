@@ -196,3 +196,13 @@
 [05:10:25] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
 [05:10:54] [Server thread/INFO]: Slowin_S issued server command: /difficulty hard
 [05:10:54] [Server thread/INFO]: [Slowin_S: The difficulty has been set to Hard]
+[05:14:58] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[05:14:58] [Server thread/INFO]: Slowin_S left the game
+[05:14:58] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:17:35] [User Authenticator #3/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[05:17:35] [Server thread/INFO]: Slowin_S joined the game
+[05:17:35] [Server thread/INFO]: Slowin_S[/100.80.144.71:50292] logged in with entity id 4324 at ([world]-4178.193711801021, 71.0, -54.27926866408318)
+[05:17:35] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:18:56] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[05:18:56] [Server thread/INFO]: Slowin_S left the game
+[05:18:56] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
