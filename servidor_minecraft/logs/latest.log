@@ -202,3 +202,12 @@
 [05:40:59] [Server thread/INFO]: ReckerDMS issued server command: /delhome cueva2
 [05:41:08] [Server thread/INFO]: ReckerDMS issued server command: /sethome jungla
 [05:42:19] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
+[05:45:21] [Server thread/INFO]: Slowin_S issued server command: /home savana
+[05:45:47] [Server thread/INFO]: ReckerDMS issued server command: /home
+[05:45:54] [Server thread/INFO]: ReckerDMS issued server command: /home jungla
+[05:47:49] [Server thread/INFO]: Slowin_S issued server command: /tp -2995 100 648
+[05:49:35] [Server thread/INFO]: Slowin_S issued server command: /tp .ABELARD03451
+[05:51:25] [Server thread/INFO]: Named entity Horse['MOCHUELITO'/18106, uuid='ac6238a0-b1c1-3b79-0848-72fb8d802d7f', l='ServerLevel[Karmaland2]', x=-417.93, y=88.00, z=259.95, cpos=[-27, 16], tl=2153, v=true] died: MOCHUELITO was slain by Slowin_S
+[05:51:30] [Server thread/INFO]: Slowin_S issued server command: /tp .ABELARD03451
+[05:52:23] [Server thread/INFO]: Slowin_S issued server command: /gm 1
+[05:52:34] [Server thread/INFO]: Slowin_S issued server command: /gm 0

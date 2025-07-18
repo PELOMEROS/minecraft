@@ -4044,3 +4044,11 @@
 [Fri Jul 18 05:40:59 UTC 2025] ReckerDMS: /delhome cueva2
 [Fri Jul 18 05:41:08 UTC 2025] ReckerDMS: /sethome jungla
 [Fri Jul 18 05:42:19 UTC 2025] ReckerDMS: /home alpha
+[Fri Jul 18 05:45:21 UTC 2025] Slowin_S: /home savana
+[Fri Jul 18 05:45:47 UTC 2025] ReckerDMS: /home
+[Fri Jul 18 05:45:54 UTC 2025] ReckerDMS: /home jungla
+[Fri Jul 18 05:47:49 UTC 2025] Slowin_S: /tp -2995 100 648
+[Fri Jul 18 05:49:35 UTC 2025] Slowin_S: /tp .ABELARD03451
+[Fri Jul 18 05:51:30 UTC 2025] Slowin_S: /tp .ABELARD03451
+[Fri Jul 18 05:52:23 UTC 2025] Slowin_S: /gm 1
+[Fri Jul 18 05:52:34 UTC 2025] Slowin_S: /gm 0
