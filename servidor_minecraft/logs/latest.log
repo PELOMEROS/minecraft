@@ -215,3 +215,16 @@
 [05:58:59] [Server thread/INFO]: Slowin_S issued server command: /fly
 [05:59:04] [Server thread/INFO]: Slowin_S issued server command: /fly
 [06:03:19] [Server thread/INFO]: Slowin_S issued server command: /home aldea
+[06:04:45] [Server thread/INFO]: Slowin_S issued server command: /tp .ABELARD03451
+[06:04:47] [Server thread/INFO]: Villager Villager['Traveling Merchant'/25733, uuid='26aa414d-a7ad-ddac-976a-d62594121273', l='ServerLevel[Karmaland2]', x=-314.65, y=130.00, z=305.85, cpos=[-20, 19], tl=218, v=true] died, message: 'Traveling Merchant hit the ground too hard'
+[06:04:47] [Server thread/INFO]: Named entity Villager['Traveling Merchant'/25733, uuid='26aa414d-a7ad-ddac-976a-d62594121273', l='ServerLevel[Karmaland2]', x=-314.65, y=130.00, z=305.85, cpos=[-20, 19], tl=218, v=true] died: Traveling Merchant fell from a high place
+[06:06:39] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[06:06:39] [Server thread/INFO]: Slowin_S left the game
+[06:06:39] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:08:18] [Server thread/INFO]: ReckerDMS lost connection: Disconnected
+[06:08:18] [Server thread/INFO]: ReckerDMS left the game
+[06:08:18] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:10:36] [User Authenticator #3/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[06:10:37] [Server thread/INFO]: Slowin_S joined the game
+[06:10:37] [Server thread/INFO]: Slowin_S[/100.80.144.71:52348] logged in with entity id 28442 at ([world]-4174.926931110621, 71.0, -55.22801904636784)
+[06:10:37] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.

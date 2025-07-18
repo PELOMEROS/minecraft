@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752733829691
+  logout: 1752818898030
   login: 1752815991253
 money: '0'
 last-account-name: ReckerDMS
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -4154.653987943716
-  y: 72.0
-  z: -58.80618541078164
-  yaw: 135.82470703125
-  pitch: 47.699798583984375
+  x: -3515.871169666813
+  y: 82.0
+  z: -578.3436743424696
+  yaw: -8.123046875
+  pitch: 44.69993591308594
 homes:
   alpha:
     world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
