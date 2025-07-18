@@ -228,3 +228,17 @@
 [06:10:37] [Server thread/INFO]: Slowin_S joined the game
 [06:10:37] [Server thread/INFO]: Slowin_S[/100.80.144.71:52348] logged in with entity id 28442 at ([world]-4174.926931110621, 71.0, -55.22801904636784)
 [06:10:37] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:20:46] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
+[06:20:46] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
+[06:20:46] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
+[06:20:46] [Server thread/INFO]: .ABELARD03451 left the game
+[06:20:47] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:23:05] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
+[06:23:05] [localSession-7-3/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
+[06:23:05] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
+[06:23:05] [Server thread/INFO]: .ABELARD03451 joined the game
+[06:23:05] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 32573 at ([world]-4188.024, 71.0, -49.755516)
+[06:23:05] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[06:23:40] [Server thread/INFO]: Slowin_S lost connection: Disconnected
+[06:23:40] [Server thread/INFO]: Slowin_S left the game
+[06:23:40] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.

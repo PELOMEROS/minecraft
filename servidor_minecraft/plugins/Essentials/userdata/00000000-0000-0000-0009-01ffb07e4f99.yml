@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752732232947
-  login: 1752816300600
+  logout: 1752819646981
+  login: 1752819785988
 money: '0'
 last-account-name: .ABELARD03451
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -4181.5
-  y: 72.0
-  z: -46.5
-  yaw: 86.60385131835938
-  pitch: 11.173927307128906
+  x: -4188.024
+  y: 71.0
+  z: -49.755516
+  yaw: 34.90269470214844
+  pitch: 13.775848388671875
 homes:
   home:
     world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
