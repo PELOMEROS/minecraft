@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752731979549
+  logout: 1752733667493
   login: 1752732215601
 money: '0'
 last-account-name: carlospelatodo
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: -5935.4959538988405
-  y: -44.0
-  z: -2100.5755795537707
-  yaw: -166.22686767578125
-  pitch: 41.69997024536133
+  x: -4179.054861405831
+  y: 73.0
+  z: -69.14925395312561
+  yaw: 91.69667053222656
+  pitch: 46.78066635131836
 homes:
   kuchausito:
     world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc

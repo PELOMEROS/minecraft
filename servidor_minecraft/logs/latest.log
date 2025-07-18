@@ -1,311 +1,188 @@
-[05:02:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[05:02:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
-[05:02:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:02:10] [ServerMain/INFO]: [FileProviderSource] The spark plugin will not be loaded as this server bundles the spark profiler.
-[05:02:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 19 plugins
-[05:02:11] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (19):
+[05:12:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[05:12:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) for Minecraft 1.21.4
+[05:12:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:12:31] [ServerMain/INFO]: [FileProviderSource] The spark plugin will not be loaded as this server bundles the spark profiler.
+[05:12:31] [ServerMain/INFO]: [PluginInitializerManager] Initialized 19 plugins
+[05:12:31] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (19):
  - AxGraves (1.22.3), ChatManager (4.0.3), ClearLag (3.2.2), Essentials (2.20.1), EssentialsChat (2.20.1), EssentialsProtect (2.20.1), EssentialsXMPP (2.20.1), Geyser-Spigot (2.8.2-SNAPSHOT), LuckPerms (5.4.134), Multiverse-Core (5.1.0), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0-SNAPSHOT-723), ServersNPC (5.2), TAB (5.2.4), Vault (1.7.3-b131), ViaBackwards (5.4.1), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b116-0e3163c)), nametags (1.2.2-stable)
-[05:02:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:02:17] [ServerMain/INFO]: Loaded 1370 recipes
-[05:02:17] [ServerMain/INFO]: Loaded 1481 advancements
-[05:02:17] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[05:02:18] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 194.3ms
-[05:02:18] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:02:18] [Server thread/INFO]: Loading properties
-[05:02:18] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[05:02:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:02:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:02:18] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:02:19] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[05:02:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[05:02:19] [Server thread/INFO]: Default game type: SURVIVAL
-[05:02:19] [Server thread/INFO]: Generating keypair
-[05:02:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:02:19] [Server thread/INFO]: Using epoll channel type
-[05:02:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:02:19] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[05:02:22] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[05:02:22] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[05:02:22] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[05:02:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[05:02:23] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[05:02:23] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[05:02:24] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.134
-[05:02:24] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[05:02:24] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[05:02:24] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[05:02:25] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[05:02:26] [Server thread/INFO]: [floodgate] Took 1,245ms to boot Floodgate
-[05:02:26] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[05:02:26] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
-[05:02:26] [Server thread/INFO]: [EssentialsProtect] Loading server plugin EssentialsProtect v2.20.1
-[05:02:26] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.1.0
-[05:02:26] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v4.0.3
-[05:02:26] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
-[05:02:26] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v5.2
-[05:02:26] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
-[05:02:26] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
-[05:02:26] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
-[05:02:26] [Server thread/INFO]: [nametags] Loading server plugin nametags v1.2.2-stable
-[05:02:26] [Server thread/INFO]: [EssentialsXMPP] Loading server plugin EssentialsXMPP v2.20.1
-[05:02:26] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[05:02:26] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[05:02:26] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[05:02:26] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-723
-[05:02:26] [Server thread/WARN]: [ProtocolLib] Detailed error reporting enabled!
-[05:02:26] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
-[05:02:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:02:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.134
-[05:02:27] [Server thread/INFO]:         __    
-[05:02:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.134
-[05:02:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[05:02:27] [Server thread/INFO]: 
-[05:02:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[05:02:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[05:02:28] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[05:02:28] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[05:02:29] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2045ms)
-[05:02:29] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[05:02:29] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[05:02:29] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[05:02:29] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[05:02:29] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[05:02:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-723
-[05:02:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:02:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:02:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:02:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:02:29] [Server thread/INFO]: Preparing level "world"
-[05:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:02:30] [Server thread/INFO]: Preparing spawn area: 0%
-[05:02:30] [Server thread/INFO]: Preparing spawn area: 2%
-[05:02:31] [Server thread/INFO]: Preparing spawn area: 2%
-[05:02:31] [Server thread/INFO]: Time elapsed: 1365 ms
-[05:02:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:02:31] [Server thread/INFO]: Preparing spawn area: 0%
-[05:02:31] [Server thread/INFO]: Time elapsed: 485 ms
-[05:02:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:02:31] [Server thread/INFO]: Preparing spawn area: 0%
-[05:02:32] [Server thread/INFO]: Time elapsed: 236 ms
-[05:02:32] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[05:02:32] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[05:02:32] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[05:02:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[05:02:32] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[05:02:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[05:02:32] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[05:02:33] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[05:02:33] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[05:02:33] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[05:02:33] [Server thread/INFO]: [Essentials] Using locale en
-[05:02:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[05:02:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[05:02:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[05:02:33] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[05:02:33] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
-[05:02:34] [Server thread/INFO]: [TAB] [WARN] [groups.yml] Unknown property "customtagname" defined for group "_DEFAULT_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
-[05:02:34] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "abovename" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
-[05:02:34] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "belowname" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
-[05:02:34] [Server thread/INFO]: [TAB] [WARN] Found a total of 3 issues.
-[05:02:34] [Server thread/INFO]: [TAB] Enabled in 192ms
-[05:02:34] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.20.1
-[05:02:34] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
-[05:02:34] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
-[05:02:34] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0
-[05:02:35] [Server thread/INFO]: Preparing start region for dimension minecraft:karmaland2
-[05:02:35] [Server thread/INFO]: Preparing spawn area: 0%
-[05:02:35] [Server thread/INFO]: Preparing spawn area: 12%
-[05:02:36] [Server thread/INFO]: Preparing spawn area: 73%
-[05:02:36] [Server thread/INFO]: Time elapsed: 1088 ms
-[05:02:36] [Server thread/INFO]: Preparing start region for dimension minecraft:lobyy
-[05:02:36] [Server thread/INFO]: Preparing spawn area: 0%
-[05:02:36] [Server thread/INFO]: Time elapsed: 194 ms
-[05:02:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.1.0]
-[05:02:37] [Server thread/INFO]: [Multiverse-Core] API service loaded!
-[05:02:37] [Server thread/INFO]: [Multiverse-Core] Version 5.1.0 (API v5.1) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
-[05:02:37] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
-[05:02:37] [Server thread/INFO]: [ChatManager] Enabling ChatManager v4.0.3
-[05:02:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [4.0.3]
-[05:02:37] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
-[05:02:37] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.2
-[05:02:37] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[05:02:37] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[05:02:37] [Server thread/INFO]: [ClearLag] Loading modules...
-[05:02:37] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
-[05:02:37] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[05:02:37] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[05:02:37] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[05:02:37] [Thread-8/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
-[05:02:37] [Thread-8/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
-[05:02:37] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
-[05:02:37] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
-[05:02:37] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
-[05:02:37] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[05:02:37] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
-[05:02:37] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[05:02:37] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
-[05:02:38] [Server thread/INFO]: [nametags] Enabling nametags v1.2.2-stable
-[05:02:38] [Server thread/INFO]: [nametags] NameTagPlugin has been enabled.
-[05:02:38] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.20.1
-[05:02:38] [Server thread/WARN]: [EssentialsXMPP] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:02:38] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
-[05:02:38] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[05:02:39] [Server thread/INFO]: [spark] Starting background profiler...
-[05:02:40] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[05:02:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[05:02:40] [Server thread/INFO]: [Geyser-Spigot] 
-[05:02:40] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b875 (git-master-3174154)
-[05:02:40] [Server thread/INFO]: [Geyser-Spigot] 
-[05:02:40] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[05:02:43] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[05:02:43] [Server thread/INFO]: [Geyser-Spigot] Done (3.618s)! Run /geyser help for help!
-[05:02:44] [Server thread/INFO]: Done preparing level "world" (14.822s)
-[05:02:44] [Server thread/INFO]: Running delayed init tasks
-[05:02:44] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[05:02:44] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[05:02:44] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[05:02:44] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
-[05:02:44] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.3]
-[05:02:44] [Server thread/INFO]: 2 placeholder hook(s) registered!
-[05:02:44] [Server thread/INFO]: Done (40.659s)! For help, type "help"
-[05:02:44] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] Checking for Updates ... 
-[05:02:44] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.1.
-[05:02:44] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
-[05:02:44] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] No new version available
-[05:02:45] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.3.0 (Running 5.3.0-SNAPSHOT-723). Download at https://www.spigotmc.org/resources/protocollib.1997/
-[05:04:39] [User Authenticator #0/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
-[05:04:39] [Server thread/INFO]: Slowin_S joined the game
-[05:04:40] [Server thread/INFO]: Slowin_S[/100.80.144.71:50109] logged in with entity id 116 at ([world]-4188.858244884404, 71.0, -25.974690335348647)
-[05:04:40] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:05:14] [User Authenticator #0/INFO]: UUID of player ReckerDMS is fbdee47f-6ddc-34bd-9d35-f9ce8404bed3
-[05:05:15] [Server thread/INFO]: ReckerDMS joined the game
-[05:05:15] [Server thread/INFO]: ReckerDMS[/100.120.167.117:51070] logged in with entity id 341 at ([world]-4002.993933797007, 36.0, -32.183408557320135)
-[05:05:15] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:05:29] [Server thread/INFO]: ReckerDMS lost connection: Disconnected
-[05:05:29] [Server thread/INFO]: ReckerDMS left the game
-[05:05:29] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:05:35] [Server thread/INFO]: Slowin_S issued server command: /day
-[05:07:52] [User Authenticator #1/INFO]: UUID of player ReckerDMS is fbdee47f-6ddc-34bd-9d35-f9ce8404bed3
-[05:07:52] [Server thread/INFO]: ReckerDMS joined the game
-[05:07:52] [Server thread/INFO]: ReckerDMS[/100.120.167.117:51398] logged in with entity id 955 at ([world]-4001.1253040926476, 36.0, -32.90115664211736)
-[05:07:52] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:09:03] [User Authenticator #2/INFO]: UUID of player carlospelatodo is 9ab9b2ae-7c63-37ed-8214-a1f03a54a363
-[05:09:04] [Server thread/INFO]: carlospelatodo joined the game
-[05:09:04] [Server thread/INFO]: carlospelatodo[/100.80.246.77:53159] logged in with entity id 1395 at ([world]-4167.744048205416, 71.0, -14.217523873442978)
-[05:09:04] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:10:25] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
-[05:10:54] [Server thread/INFO]: Slowin_S issued server command: /difficulty hard
-[05:10:54] [Server thread/INFO]: [Slowin_S: The difficulty has been set to Hard]
-[05:14:58] [Server thread/INFO]: Slowin_S lost connection: Disconnected
-[05:14:58] [Server thread/INFO]: Slowin_S left the game
-[05:14:58] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:17:35] [User Authenticator #3/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
-[05:17:35] [Server thread/INFO]: Slowin_S joined the game
-[05:17:35] [Server thread/INFO]: Slowin_S[/100.80.144.71:50292] logged in with entity id 4324 at ([world]-4178.193711801021, 71.0, -54.27926866408318)
-[05:17:35] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:18:56] [Server thread/INFO]: Slowin_S lost connection: Disconnected
-[05:18:56] [Server thread/INFO]: Slowin_S left the game
-[05:18:56] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:23:33] [User Authenticator #4/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
-[05:23:33] [Server thread/INFO]: Slowin_S joined the game
-[05:23:33] [Server thread/INFO]: Slowin_S[/100.80.144.71:50362] logged in with entity id 6424 at ([world]-4181.520279727753, 71.0, -31.970413269759234)
-[05:23:33] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:26:47] [Server thread/INFO]: Slowin_S issued server command: /difficulty normal
-[05:26:47] [Server thread/INFO]: [Slowin_S: The difficulty has been set to Normal]
-[05:29:50] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
-[05:30:26] [Server thread/INFO]: carlospelatodo issued server command: /home kuchausito
-[05:33:05] [Server thread/INFO]: ReckerDMS issued server command: /sethome grand
-[05:33:17] [Server thread/INFO]: Slowin_S issued server command: /locate biome minecraft:savanna_plateau
-[05:33:18] [Server thread/INFO]: Locating element minecraft:savanna_plateau took 942 ms
-[05:33:31] [Async Chat Thread - #0/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:33:37] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
-[05:34:49] [Async Chat Thread - #1/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:35:02] [Server thread/WARN]: Birch Boat (vehicle of Slowin_S) moved wrongly! 0.35229377156883857
-[05:35:02] [Server thread/WARN]: Birch Boat (vehicle of Slowin_S) moved wrongly! 0.5663476818108393
-[05:36:08] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
-[05:36:08] [localSession-7-2/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
-[05:36:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
-[05:36:09] [Server thread/INFO]: .ABELARD03451 joined the game
-[05:36:09] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 10974 at ([world]-4083.7388, 63.0, 27.579706)
-[05:36:09] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:36:34] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
-[05:36:51] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
-[05:36:54] [Async Chat Thread - #3/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:37:27] [Async Chat Thread - #3/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:38:43] [Server thread/WARN]: Birch Boat (vehicle of ReckerDMS) moved wrongly! 0.2619461642792733
-[05:41:16] [Async Chat Thread - #5/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:44:10] [Async Chat Thread - #8/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:47:22] [Async Chat Thread - #9/INFO]: [Not Secure] [Miembro] Slowin_S > -5863 71 -1774
-[05:48:25] [Server thread/INFO]: .ABELARD03451 issued server command: /home vege
-[05:48:38] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
-[05:48:38] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
-[05:48:38] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
-[05:48:38] [Server thread/INFO]: .ABELARD03451 left the game
-[05:48:38] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:49:01] [Server thread/INFO]: Slowin_S issued server command: /home meseta
-[05:49:07] [Server thread/INFO]: Slowin_S issued server command: /sethome meseta
-[05:50:00] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
-[05:50:00] [localSession-7-3/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
-[05:50:00] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
-[05:50:00] [Server thread/INFO]: .ABELARD03451 joined the game
-[05:50:00] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 19415 at ([world]-4167.3154, 71.0, -42.267807)
-[05:50:00] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:55:02] [Server thread/INFO]: carlospelatodo fell from a high place
-[05:55:25] [Server thread/INFO]: Slowin_S issued server command: /tp carlospelatodo ReckerDMS
-[05:55:32] [Server thread/INFO]: Slowin_S issued server command: /tp ReckerDMS
-[05:59:39] [Server thread/INFO]: carlospelatodo lost connection: Disconnected
-[05:59:39] [Server thread/INFO]: carlospelatodo left the game
-[05:59:39] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[05:59:43] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
-[05:59:43] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
-[05:59:43] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
-[05:59:43] [Server thread/INFO]: .ABELARD03451 left the game
-[05:59:43] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[06:01:13] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
-[06:01:13] [localSession-7-4/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
-[06:01:13] [User Authenticator #5/INFO]: UUID of player ABELARD03451 is 6b989650-5da1-3b06-8518-c55ecce001af
-[06:01:13] [Server thread/INFO]: ABELARD03451 joined the game
-[06:01:13] [Server thread/INFO]: ABELARD03451[/100.83.254.78:0] logged in with entity id 25095 at ([world]711.9872, 64.0, 754.9941)
-[06:01:13] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[06:01:42] [Server thread/INFO]: Slowin_S issued server command: /gm 1
-[06:01:44] [Server thread/INFO]: Slowin_S issued server command: /gm 0
-[06:02:11] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
-[06:02:11] [Server thread/INFO]: ABELARD03451 lost connection: Disconnected
-[06:02:11] [Server thread/INFO]: ABELARD03451 left the game
-[06:02:11] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[06:02:26] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username ABELARD03451
-[06:02:26] [localSession-7-1/INFO]: [Geyser-Spigot] ABELARD03451 (logged in as: ABELARD03451) has connected to the Java server
-[06:02:26] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 joined (UUID: 00000000-0000-0000-0009-01ffb07e4f99)
-[06:02:26] [Server thread/INFO]: .ABELARD03451 joined the game
-[06:02:26] [Server thread/INFO]: .ABELARD03451[/100.83.254.78:0] logged in with entity id 25661 at ([world]-4202.9946, 85.0, -33.55931)
-[06:02:26] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[06:03:17] [Server thread/INFO]: ReckerDMS has made the advancement [Sneak 100]
-[06:03:35] [User Authenticator #6/INFO]: UUID of player carlospelatodo is 9ab9b2ae-7c63-37ed-8214-a1f03a54a363
-[06:03:35] [Server thread/INFO]: carlospelatodo joined the game
-[06:03:35] [Server thread/INFO]: carlospelatodo[/100.80.246.77:53425] logged in with entity id 26457 at ([world]-5935.4959538988405, -44.0, -2100.5755795537707)
-[06:03:35] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[06:03:52] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .ABELARD03451 disconnected
-[06:03:52] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] ABELARD03451 has disconnected from the Java server because of Bedrock client disconnected
-[06:03:52] [Server thread/INFO]: .ABELARD03451 lost connection: Disconnected
-[06:03:53] [Server thread/INFO]: .ABELARD03451 left the game
-[06:03:53] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
-[06:04:05] [Server thread/INFO]: carlospelatodo issued server command: /tpa slowin_s
-[06:04:50] [Server thread/INFO]: Slowin_S issued server command: /tpaccept
-[06:05:03] [Server thread/INFO]: Slowin_S fell from a high place
-[06:05:07] [Server thread/INFO]: Slowin_S issued server command: /tp ReckerDMS
-[06:06:43] [Server thread/INFO]: ReckerDMS was slain by Slowin_S
-[06:07:11] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
-[06:14:26] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
-[06:14:35] [Server thread/INFO]: Slowin_S issued server command: /tp carlospelatodo ReckerDMS
-[06:16:55] [Server thread/INFO]: carlospelatodo issued server command: /home kuchau
-[06:16:56] [Server thread/INFO]: Slowin_S issued server command: /home savana
-[06:17:24] [Async Chat Thread - #11/INFO]: [Not Secure] [Miembro] Slowin_S > taaaaaaaaaaaaaaaaaaaaaaaaaaaa
-[06:17:27] [Async Chat Thread - #11/INFO]: [Not Secure] [Miembro] Slowin_S > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-[06:17:35] [Async Chat Thread - #11/INFO]: [Not Secure] [Miembro] Slowin_S > ._.
-[06:17:44] [Async Chat Thread - #11/INFO]: [Not Secure] [Miembro] Slowin_S > ._.
-[06:17:54] [Server thread/INFO]: Slowin_S issued server command: /tp ReckerDMS
-[06:17:58] [Server thread/INFO]: Slowin_S issued server command: /home savana
-[06:18:15] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
-[06:18:27] [Server thread/INFO]: carlospelatodo issued server command: /home kuchausito
-[06:18:29] [Server thread/INFO]: Slowin_S issued server command: /tp carlospelatodo ReckerDMS
-[06:20:03] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[05:12:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:12:37] [ServerMain/INFO]: Loaded 1370 recipes
+[05:12:37] [ServerMain/INFO]: Loaded 1481 advancements
+[05:12:37] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[05:12:37] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 251.7ms
+[05:12:37] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[05:12:37] [Server thread/INFO]: Loading properties
+[05:12:37] [Server thread/INFO]: This server is running Paper version 1.21.4-231-ver/1.21.4@09e9afd (2025-05-19T17:59:36Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[05:12:37] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:12:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:12:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:12:38] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[05:12:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[05:12:38] [Server thread/INFO]: Default game type: SURVIVAL
+[05:12:38] [Server thread/INFO]: Generating keypair
+[05:12:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:12:38] [Server thread/INFO]: Using epoll channel type
+[05:12:38] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:12:38] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[05:12:40] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[05:12:40] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[05:12:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[05:12:41] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[05:12:42] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[05:12:42] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[05:12:42] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.134
+[05:12:43] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[05:12:43] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[05:12:43] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[05:12:43] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[05:12:43] [Server thread/INFO]: [floodgate] Took 905ms to boot Floodgate
+[05:12:43] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[05:12:43] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.4
+[05:12:43] [Server thread/INFO]: [EssentialsProtect] Loading server plugin EssentialsProtect v2.20.1
+[05:12:43] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.1.0
+[05:12:43] [Server thread/INFO]: [ChatManager] Loading server plugin ChatManager v4.0.3
+[05:12:43] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.1
+[05:12:43] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v5.2
+[05:12:43] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[05:12:43] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[05:12:43] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.22.3
+[05:12:43] [Server thread/INFO]: [nametags] Loading server plugin nametags v1.2.2-stable
+[05:12:43] [Server thread/INFO]: [EssentialsXMPP] Loading server plugin EssentialsXMPP v2.20.1
+[05:12:43] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[05:12:44] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[05:12:44] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[05:12:44] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-723
+[05:12:44] [Server thread/WARN]: [ProtocolLib] Detailed error reporting enabled!
+[05:12:44] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
+[05:12:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:12:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.134
+[05:12:45] [Server thread/INFO]:         __    
+[05:12:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.134
+[05:12:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[05:12:45] [Server thread/INFO]: 
+[05:12:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:12:45] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:12:46] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:12:46] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:12:46] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1819ms)
+[05:12:46] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:12:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:12:46] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:12:46] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:12:46] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:12:46] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-723
+[05:12:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:12:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:12:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:12:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:12:47] [Server thread/INFO]: Preparing level "world"
+[05:12:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:48] [Server thread/INFO]: Preparing spawn area: 2%
+[05:12:48] [Server thread/INFO]: Preparing spawn area: 6%
+[05:12:48] [Server thread/INFO]: Time elapsed: 1201 ms
+[05:12:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:12:48] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:49] [Server thread/INFO]: Time elapsed: 231 ms
+[05:12:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:12:49] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:49] [Server thread/INFO]: Time elapsed: 144 ms
+[05:12:49] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[05:12:49] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[05:12:49] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[05:12:49] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[05:12:49] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[05:12:50] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[05:12:50] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[05:12:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[05:12:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[05:12:50] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[05:12:50] [Server thread/INFO]: [Essentials] Using locale en
+[05:12:51] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:12:51] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:12:51] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:12:51] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:12:51] [Server thread/INFO]: [TAB] Enabling TAB v5.2.4
+[05:12:51] [Server thread/INFO]: [TAB] [WARN] [groups.yml] Unknown property "customtagname" defined for group "_DEFAULT_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[05:12:51] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "abovename" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[05:12:51] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "belowname" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[05:12:51] [Server thread/INFO]: [TAB] [WARN] Found a total of 3 issues.
+[05:12:51] [Server thread/INFO]: [TAB] Enabled in 222ms
+[05:12:51] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.20.1
+[05:12:51] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[05:12:51] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[05:12:51] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0
+[05:12:52] [Server thread/INFO]: Preparing start region for dimension minecraft:karmaland2
+[05:12:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:52] [Server thread/INFO]: Time elapsed: 326 ms
+[05:12:52] [Server thread/INFO]: Preparing start region for dimension minecraft:lobyy
+[05:12:52] [Server thread/INFO]: Preparing spawn area: 0%
+[05:12:52] [Server thread/INFO]: Time elapsed: 141 ms
+[05:12:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.1.0]
+[05:12:53] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[05:12:53] [Server thread/INFO]: [Multiverse-Core] Version 5.1.0 (API v5.1) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[05:12:53] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[05:12:53] [Server thread/INFO]: [ChatManager] Enabling ChatManager v4.0.3
+[05:12:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: chatmanager [4.0.3]
+[05:12:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.1
+[05:12:53] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.2
+[05:12:53] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[05:12:53] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[05:12:54] [Server thread/INFO]: [ClearLag] Loading modules...
+[05:12:54] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[05:12:54] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[05:12:54] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[05:12:54] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[05:12:54] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[05:12:54] [Thread-8/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[05:12:54] [Thread-8/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[05:12:54] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[05:12:54] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[05:12:54] [Thread-8/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[05:12:54] [Thread-8/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[05:12:54] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[05:12:54] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.22.3
+[05:12:55] [Server thread/INFO]: [nametags] Enabling nametags v1.2.2-stable
+[05:12:55] [Server thread/INFO]: [nametags] NameTagPlugin has been enabled.
+[05:12:55] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.20.1
+[05:12:55] [Server thread/WARN]: [EssentialsXMPP] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:12:55] [Server thread/INFO]: [EssentialsXMPP] Starting Metrics. Opt-out using the global bStats config.
+[05:12:55] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[05:12:55] [Server thread/INFO]: [spark] Starting background profiler...
+[05:12:56] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[05:12:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:12:56] [Server thread/INFO]: [Geyser-Spigot] 
+[05:12:56] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b875 (git-master-3174154)
+[05:12:56] [Server thread/INFO]: [Geyser-Spigot] 
+[05:12:56] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[05:13:00] [epollEventLoopGroup-3-2/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[05:13:00] [Server thread/INFO]: [Geyser-Spigot] Done (4.33s)! Run /geyser help for help!
+[05:13:00] [Server thread/INFO]: Done preparing level "world" (13.702s)
+[05:13:00] [Server thread/INFO]: Running delayed init tasks
+[05:13:00] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[05:13:00] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[05:13:00] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:13:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[05:13:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.3]
+[05:13:00] [Server thread/INFO]: 2 placeholder hook(s) registered!
+[05:13:00] [Server thread/INFO]: Done (31.355s)! For help, type "help"
+[05:13:00] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] Checking for Updates ... 
+[05:13:01] [Craft Scheduler Thread - 4 - Vault/INFO]: [Vault] No new version available
+[05:13:01] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.21.1.
+[05:13:01] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[05:13:01] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.3.0 (Running 5.3.0-SNAPSHOT-723). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[05:13:57] [User Authenticator #0/INFO]: UUID of player Slowin_S is ac7bbd7b-9286-3f1f-9120-3d5035110bfd
+[05:13:58] [Server thread/INFO]: Slowin_S joined the game
+[05:13:58] [Server thread/INFO]: Slowin_S[/100.80.144.71:51698] logged in with entity id 99 at ([world]-4156.909162170921, 72.5, -58.86104959942942)
+[05:13:58] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:14:04] [Server thread/INFO]: Slowin_S issued server command: /day
+[05:15:49] [User Authenticator #1/INFO]: UUID of player Amatzumagasuchi is 76fc2f80-3eae-3977-8bbf-f37f9cfc1931
+[05:15:51] [Server thread/INFO]: Amatzumagasuchi joined the game
+[05:15:51] [Server thread/INFO]: Amatzumagasuchi[/100.111.187.45:50522] logged in with entity id 534 at ([world]525.7560430295089, 40.0, 771.3000000119209)
+[05:15:51] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:17:54] [Server thread/INFO]: Slowin_S issued server command: /weather clear
+[05:19:50] [User Authenticator #2/INFO]: UUID of player ReckerDMS is fbdee47f-6ddc-34bd-9d35-f9ce8404bed3
+[05:19:51] [Server thread/INFO]: ReckerDMS joined the game
+[05:19:51] [Server thread/INFO]: ReckerDMS[/100.120.167.117:51933] logged in with entity id 1861 at ([world]-4154.653987943716, 72.0, -58.80618541078164)
+[05:19:51] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[05:20:43] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
