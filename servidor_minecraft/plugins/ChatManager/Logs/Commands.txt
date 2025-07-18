@@ -4052,3 +4052,7 @@
 [Fri Jul 18 05:51:30 UTC 2025] Slowin_S: /tp .ABELARD03451
 [Fri Jul 18 05:52:23 UTC 2025] Slowin_S: /gm 1
 [Fri Jul 18 05:52:34 UTC 2025] Slowin_S: /gm 0
+[Fri Jul 18 05:58:57 UTC 2025] Slowin_S: /flys
+[Fri Jul 18 05:58:59 UTC 2025] Slowin_S: /fly
+[Fri Jul 18 05:59:04 UTC 2025] Slowin_S: /fly
+[Fri Jul 18 06:03:19 UTC 2025] Slowin_S: /home aldea
