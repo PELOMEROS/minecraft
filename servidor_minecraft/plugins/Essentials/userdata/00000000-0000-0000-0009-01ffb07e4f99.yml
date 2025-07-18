@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1752732232089
+  lastteleport: 1752816653473
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1752732232947
-  login: 1752732146648
+  login: 1752816300600
 money: '0'
 last-account-name: .ABELARD03451
 lastlocation:
   world: c58281f9-8fc3-4ff6-96a5-08506a6b36c0
   world-name: Karmaland2
-  x: -455.67673
+  x: -453.96695
   y: 176.0
-  z: 286.40732
-  yaw: 100.0367431640625
-  pitch: 8.644134521484375
+  z: 286.33365
+  yaw: 91.2159423828125
+  pitch: -4.0342559814453125
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
