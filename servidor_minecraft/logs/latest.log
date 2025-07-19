@@ -203,3 +203,8 @@
 [06:49:18] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
 [06:54:09] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
 [06:55:16] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[07:05:51] [User Authenticator #2/INFO]: UUID of player carlospelatodo is 9ab9b2ae-7c63-37ed-8214-a1f03a54a363
+[07:05:52] [Server thread/INFO]: carlospelatodo joined the game
+[07:05:52] [Server thread/INFO]: carlospelatodo[/100.80.246.77:56143] logged in with entity id 10990 at ([world]-4179.054861405831, 73.0, -69.14925395312561)
+[07:05:52] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
+[07:06:26] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
