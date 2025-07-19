@@ -215,3 +215,15 @@
 [07:30:32] [Server thread/INFO]: ReckerDMS issued server command: /home alpha
 [07:31:13] [Server thread/INFO]: Slowin_S issued server command: /gm 0
 [07:31:14] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[07:32:43] [Server thread/INFO]: Slowin_S issued server command: /gm 3
+[07:33:16] [Server thread/INFO]: Slowin_S issued server command: /gm 0
+[07:33:18] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[07:35:22] [Server thread/INFO]: ReckerDMS has made the advancement [Ice Bucket Challenge]
+[07:36:05] [Server thread/INFO]: Slowin_S issued server command: /tp ReckerDMS
+[07:39:02] [Server thread/INFO]: Slowin_S issued server command: /home aldea
+[07:39:21] [Server thread/INFO]: Slowin_S issued server command: /weather clear
+[07:39:40] [Server thread/INFO]: Slowin_S issued server command: /tphere ReckerDMS
+[07:40:14] [Server thread/INFO]: ReckerDMS has made the advancement [A Seedy Place]
+[07:41:35] [Server thread/INFO]: carlospelatodo lost connection: Disconnected
+[07:41:35] [Server thread/INFO]: carlospelatodo left the game
+[07:41:35] [Server thread/WARN]: [Essentials] XMPP is not configured properly. If you do not know what XMPP is, you may wish to remove the EssentialsXXMPP plugin from your server.
