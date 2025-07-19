@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1752556859641
+  logout: 1752820218428
   login: 1752815751226
 money: '0'
 last-account-name: Amatzumagasuchi
 logoutlocation:
   world: 1d44e96f-52d1-4d3c-80ca-1dd436e1aefc
   world-name: world
-  x: 525.8002340935101
-  y: 40.0
-  z: 771.3000000119209
-  yaw: -78.626953125
-  pitch: 38.84994125366211
+  x: 182.58475972971826
+  y: -16.0
+  z: 726.6999999880791
+  yaw: -169.451171875
+  pitch: 10.350032806396484
 lastlocation:
   world: c58281f9-8fc3-4ff6-96a5-08506a6b36c0
   world-name: Karmaland2
